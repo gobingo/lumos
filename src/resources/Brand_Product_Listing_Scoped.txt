@@ -1,0 +1,957 @@
+{"brand_product_listing":{"docs":[{"product_listing":"fubu wally men's boots","entity_value":"fubu","pre_1_token":"","pre_2_token":"","post_1_token":"wally","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dunham magnolia shoal leather","entity_value":"dunham","pre_1_token":"","pre_2_token":"","post_1_token":"magnolia","post_2_token":"shoal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kork-ease ava jacket","entity_value":"kork","pre_1_token":"","pre_2_token":"","post_1_token":"ava","post_2_token":"jacket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ralph by ralph lauren sunglasses","entity_value":"ralph","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"ralph"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"grasshoppers maisie white","entity_value":"grasshoppers","pre_1_token":"","pre_2_token":"","post_1_token":"maisie","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pour la victoire rebecca dark brown boots","entity_value":"victoire","pre_1_token":"la","pre_2_token":"pour","post_1_token":"rebecca","post_2_token":"dark"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ike behar men's dress shirt","entity_value":"behar","pre_1_token":"ike","pre_2_token":"","post_1_token":"men's","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oscar schmidt acoustic guitar","entity_value":"oscar","pre_1_token":"","pre_2_token":"","post_1_token":"schmidt","post_2_token":"acoustic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"celebrity pink denim capris","entity_value":"celebrity","pre_1_token":"","pre_2_token":"","post_1_token":"pink","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"enro men's ultimate no-iron cotton trousers","entity_value":"enro","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"ultimate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"unltd by marc ecko carving white/brown","entity_value":"unltd","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"marc"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tsukihoshi kids maru (infant/toddler) brown/orange","entity_value":"tsukihoshi","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"maru"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ocean minded laguna brown","entity_value":"minded","pre_1_token":"ocean","pre_2_token":"","post_1_token":"laguna","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"onyx nite ball gown","entity_value":"onyx","pre_1_token":"","pre_2_token":"","post_1_token":"nite","post_2_token":"ball"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"necessary objects sheath dress","entity_value":"objects","pre_1_token":"necessary","pre_2_token":"","post_1_token":"sheath","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"penny loves kenny asteroid lavender","entity_value":"kenny","pre_1_token":"loves","pre_2_token":"penny","post_1_token":"asteroid","post_2_token":"lavender"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ecko jet-pack backpack","entity_value":"ecko","pre_1_token":"","pre_2_token":"","post_1_token":"jet-pack","post_2_token":"backpack"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"the highest heel classic cork","entity_value":"heel","pre_1_token":"highest","pre_2_token":"the","post_1_token":"classic","post_2_token":"cork"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"poetic licence attention grey","entity_value":"poetic","pre_1_token":"","pre_2_token":"","post_1_token":"licence","post_2_token":"attention"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"newport blacksmith shop newport collapsible","entity_value":"newport","pre_1_token":"","pre_2_token":"","post_1_token":"blacksmith","post_2_token":"shop"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"havana joe tripper travelling oxford","entity_value":"havana","pre_1_token":"","pre_2_token":"","post_1_token":"joe","post_2_token":"tripper"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"frontier 1-drawer nighstand","entity_value":"1","pre_1_token":"frontier","pre_2_token":"","post_1_token":"nighstand","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lifestride cierra # 2 black","entity_value":"lifestride","pre_1_token":"","pre_2_token":"","post_1_token":"cierra","post_2_token":"#"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"minibel kids tanika (toddler) navy","entity_value":"minibel","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"tanika"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"touch ups tiffany bronze","entity_value":"touch","pre_1_token":"","pre_2_token":"","post_1_token":"ups","post_2_token":"tiffany"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bite men's golf sandal","entity_value":"bite","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"golf"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"triple 5 soul men's 5-pocket denim jeans","entity_value":"5","pre_1_token":"triple","pre_2_token":"","post_1_token":"soul","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kors michael kors dubois black","entity_value":"kors","pre_1_token":"","pre_2_token":"","post_1_token":"michael","post_2_token":"kors"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"boutique 9 lowan bronze","entity_value":"9","pre_1_token":"boutique","pre_2_token":"","post_1_token":"lowan","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"calvin klein blue sunglasses","entity_value":"calvin","pre_1_token":"","pre_2_token":"","post_1_token":"klein","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jfw tangerine embroider dress","entity_value":"jfw","pre_1_token":"","pre_2_token":"","post_1_token":"tangerine","post_2_token":"embroider"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"brooklyn girl's denim jeans","entity_value":"brooklyn","pre_1_token":"","pre_2_token":"","post_1_token":"girl's","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"luichiny daniela red leather","entity_value":"luichiny","pre_1_token":"","pre_2_token":"","post_1_token":"daniela","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"martin gordon men's stripe shirt","entity_value":"gordon","pre_1_token":"martin","pre_2_token":"","post_1_token":"men's","post_2_token":"stripe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jil sander 'sander' men's 4.2 oz aftershave","entity_value":"sander","pre_1_token":"jil","pre_2_token":"","post_1_token":"'sander'","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naughty monkey 'combat' heels","entity_value":"naughty","pre_1_token":"","pre_2_token":"","post_1_token":"monkey","post_2_token":"'combat'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"carlo viani large ladies","entity_value":"carlo","pre_1_token":"","pre_2_token":"","post_1_token":"viani","post_2_token":"large"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"john fluevog john wayne spotted pony","entity_value":"john","pre_1_token":"","pre_2_token":"","post_1_token":"fluevog","post_2_token":"john"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nicola women's sequined crinkle top","entity_value":"nicola","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"sequined"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"greg norman white corduroy pants","entity_value":"greg","pre_1_token":"","pre_2_token":"","post_1_token":"norman","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"310 motoring wraith black","entity_value":"310","pre_1_token":"","pre_2_token":"","post_1_token":"motoring","post_2_token":"wraith"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rasta imposta adult banana costume","entity_value":"rasta","pre_1_token":"","pre_2_token":"","post_1_token":"imposta","post_2_token":"adult"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moonshot (blu-ray disc)","entity_value":"blu","pre_1_token":"moonshot","pre_2_token":"","post_1_token":"disc)","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rasta imposta adult banana costume","entity_value":"imposta","pre_1_token":"rasta","pre_2_token":"","post_1_token":"adult","post_2_token":"banana"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"london times shimmer dress","entity_value":"times","pre_1_token":"london","pre_2_token":"","post_1_token":"shimmer","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"matiko eva raisin","entity_value":"matiko","pre_1_token":"","pre_2_token":"","post_1_token":"eva","post_2_token":"raisin"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ninety knit gaucho pants","entity_value":"ninety","pre_1_token":"","pre_2_token":"","post_1_token":"knit","post_2_token":"gaucho"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"johnston & murphy overnighter sleeve","entity_value":"murphy","pre_1_token":"&","pre_2_token":"johnston","post_1_token":"overnighter","post_2_token":"sleeve"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"g-star vantgarden jean","entity_value":"g","pre_1_token":"","pre_2_token":"","post_1_token":"vantgarden","post_2_token":"jean"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hurley hurley slip w sand/white paisley","entity_value":"hurley","pre_1_token":"","pre_2_token":"","post_1_token":"hurley","post_2_token":"slip"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zoe d print skirt","entity_value":"d","pre_1_token":"zoe","pre_2_token":"","post_1_token":"print","post_2_token":"skirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"prari selenia roccia flats","entity_value":"prari","pre_1_token":"","pre_2_token":"","post_1_token":"selenia","post_2_token":"roccia"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kiyonna women's 'jemma' ruched dress","entity_value":"kiyonna","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'jemma'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"baby phat track jacket","entity_value":"phat","pre_1_token":"baby","pre_2_token":"","post_1_token":"track","post_2_token":"jacket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"miss a knife kit","entity_value":"a","pre_1_token":"miss","pre_2_token":"","post_1_token":"knife","post_2_token":"kit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adrianna papell asymmetrical dress","entity_value":"papell","pre_1_token":"adrianna","pre_2_token":"","post_1_token":"asymmetrical","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j kara beaded camisole","entity_value":"j","pre_1_token":"","pre_2_token":"","post_1_token":"kara","post_2_token":"beaded"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"k-tel micro steam","entity_value":"k","pre_1_token":"","pre_2_token":"","post_1_token":"micro","post_2_token":"steam"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"h starlet sequins jacket","entity_value":"h","pre_1_token":"","pre_2_token":"","post_1_token":"starlet","post_2_token":"sequins"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"romika mokasetta 53 brazil","entity_value":"romika","pre_1_token":"","pre_2_token":"","post_1_token":"mokasetta","post_2_token":"53"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"i&i sports curved shield","entity_value":"i","pre_1_token":"","pre_2_token":"","post_1_token":"sports","post_2_token":"curved"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"310 motoring wraith black","entity_value":"motoring","pre_1_token":"310","pre_2_token":"","post_1_token":"wraith","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"new comfort new green air purifier humidifier","entity_value":"new","pre_1_token":"","pre_2_token":"","post_1_token":"comfort","post_2_token":"new"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"u & i men's khaki suit","entity_value":"u","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"i"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"john fluevog cowboy black","entity_value":"fluevog","pre_1_token":"john","pre_2_token":"","post_1_token":"cowboy","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"red wing shoes ada red","entity_value":"red","pre_1_token":"","pre_2_token":"","post_1_token":"wing","post_2_token":"shoes"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"montrail namche&#8482; sage","entity_value":"montrail","pre_1_token":"","pre_2_token":"","post_1_token":"namche&#8482;","post_2_token":"sage"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"udder comfort udder comfort blue marker blue","entity_value":"comfort","pre_1_token":"udder","pre_2_token":"","post_1_token":"udder","post_2_token":"comfort"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bass deedee women's bootie","entity_value":"bass","pre_1_token":"","pre_2_token":"","post_1_token":"deedee","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"michelle nicole houndstooth cardigan","entity_value":"nicole","pre_1_token":"michelle","pre_2_token":"","post_1_token":"houndstooth","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"p. miller soldier black","entity_value":"p","pre_1_token":"","pre_2_token":"","post_1_token":"miller","post_2_token":"soldier"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"johnston & murphy overnighter sleeve","entity_value":"johnston","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"murphy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"525 cowl neck sweater","entity_value":"525","pre_1_token":"","pre_2_token":"","post_1_token":"cowl","post_2_token":"neck"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"type z z-loop black","entity_value":"z","pre_1_token":"type","pre_2_token":"","post_1_token":"z-loop","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mac & jac silk wrap skirt","entity_value":"jac","pre_1_token":"&","pre_2_token":"mac","post_1_token":"silk","post_2_token":"wrap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"agatha ruiz de la prada kids 72211-a (toddler) white/pink agatha","entity_value":"agatha","pre_1_token":"","pre_2_token":"","post_1_token":"ruiz","post_2_token":"de"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naot footwear tranquil eggshell","entity_value":"naot","pre_1_token":"","pre_2_token":"","post_1_token":"footwear","post_2_token":"tranquil"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hale bob suzie white","entity_value":"bob","pre_1_token":"hale","pre_2_token":"","post_1_token":"suzie","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cabo pleather strap sweater","entity_value":"cabo","pre_1_token":"","pre_2_token":"","post_1_token":"pleather","post_2_token":"strap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sofft marcela bronze","entity_value":"sofft","pre_1_token":"","pre_2_token":"","post_1_token":"marcela","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ariat ariat rambler dust","entity_value":"ariat","pre_1_token":"","pre_2_token":"","post_1_token":"ariat","post_2_token":"rambler"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kate spade pru gunmetal","entity_value":"kate","pre_1_token":"","pre_2_token":"","post_1_token":"spade","post_2_token":"pru"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"last kiss women's poncho","entity_value":"kiss","pre_1_token":"last","pre_2_token":"","post_1_token":"women's","post_2_token":"poncho"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"christin michaels salama silver flats","entity_value":"michaels","pre_1_token":"christin","pre_2_token":"","post_1_token":"salama","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gianfranco ferre pink handbag","entity_value":"gianfranco","pre_1_token":"","pre_2_token":"","post_1_token":"ferre","post_2_token":"pink"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"brooklyn xpress men's polo","entity_value":"xpress","pre_1_token":"brooklyn","pre_2_token":"","post_1_token":"men's","post_2_token":"polo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sperry topsider loafer","entity_value":"sperry","pre_1_token":"","pre_2_token":"","post_1_token":"topsider","post_2_token":"loafer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"michelle michelle ruffled blouse","entity_value":"michelle","pre_1_token":"","pre_2_token":"","post_1_token":"michelle","post_2_token":"ruffled"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jag solid bandeau dress","entity_value":"jag","pre_1_token":"","pre_2_token":"","post_1_token":"solid","post_2_token":"bandeau"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"harve benard black raincoat","entity_value":"benard","pre_1_token":"harve","pre_2_token":"","post_1_token":"black","post_2_token":"raincoat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kersh printed tunic/dress","entity_value":"kersh","pre_1_token":"","pre_2_token":"","post_1_token":"printed","post_2_token":"tunic/dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sovereign code men's herringbone vest","entity_value":"code","pre_1_token":"sovereign","pre_2_token":"","post_1_token":"men's","post_2_token":"herringbone"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kasper plum pant suit","entity_value":"kasper","pre_1_token":"","pre_2_token":"","post_1_token":"plum","post_2_token":"pant"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"helly hansen himalayan pants","entity_value":"hansen","pre_1_token":"helly","pre_2_token":"","post_1_token":"himalayan","post_2_token":"pants"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sorel remodeler low black","entity_value":"sorel","pre_1_token":"","pre_2_token":"","post_1_token":"remodeler","post_2_token":"low"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gottex beaded swimsuit","entity_value":"gottex","pre_1_token":"","pre_2_token":"","post_1_token":"beaded","post_2_token":"swimsuit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mootsies tootsies quiz blmootsies tootsies quiz bl(size 7.5 m)","entity_value":"tootsies","pre_1_token":"mootsies","pre_2_token":"","post_1_token":"quiz","post_2_token":"blmootsies"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"annalee & hope women's maxi skirt","entity_value":"hope","pre_1_token":"&","pre_2_token":"annalee","post_1_token":"women's","post_2_token":"maxi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"van heusen men's shirt","entity_value":"van","pre_1_token":"","pre_2_token":"","post_1_token":"heusen","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dexter bowling racer black","entity_value":"dexter","pre_1_token":"","pre_2_token":"","post_1_token":"bowling","post_2_token":"racer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bill blass flapover briefcase","entity_value":"bill","pre_1_token":"","pre_2_token":"","post_1_token":"blass","post_2_token":"flapover"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cynthia vincent alice yellow","entity_value":"vincent","pre_1_token":"cynthia","pre_2_token":"","post_1_token":"alice","post_2_token":"yellow"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"steven vybe white multi","entity_value":"steven","pre_1_token":"","pre_2_token":"","post_1_token":"vybe","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"soho lab alec black","entity_value":"lab","pre_1_token":"soho","pre_2_token":"","post_1_token":"alec","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j kara beaded camisole","entity_value":"kara","pre_1_token":"j","pre_2_token":"","post_1_token":"beaded","post_2_token":"camisole"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"farm innovators-farm hp-125 heated base 125 watt","entity_value":"farm","pre_1_token":"","pre_2_token":"","post_1_token":"innovators-farm","post_2_token":"hp-125"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"claire v. lotus handbag","entity_value":"claire","pre_1_token":"","pre_2_token":"","post_1_token":"v.","post_2_token":"lotus"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"josef seibel tracy white","entity_value":"seibel","pre_1_token":"josef","pre_2_token":"","post_1_token":"tracy","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naomi women's poncho jacket","entity_value":"naomi","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"poncho"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"karl lagerfeld women's metal sunglasses","entity_value":"karl","pre_1_token":"","pre_2_token":"","post_1_token":"lagerfeld","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bally eryna bowlings bowler","entity_value":"bally","pre_1_token":"","pre_2_token":"","post_1_token":"eryna","post_2_token":"bowlings"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"walking cradles stretch black","entity_value":"cradles","pre_1_token":"walking","pre_2_token":"","post_1_token":"stretch","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"andrew stevens cleo pump","entity_value":"andrew","pre_1_token":"","pre_2_token":"","post_1_token":"stevens","post_2_token":"cleo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"helle comfort calida tan","entity_value":"helle","pre_1_token":"","pre_2_token":"","post_1_token":"comfort","post_2_token":"calida"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"acorn brava mule acorn","entity_value":"acorn","pre_1_token":"","pre_2_token":"","post_1_token":"brava","post_2_token":"mule"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"l.a.m.b. rhea black sandals","entity_value":"l.a.m.b","pre_1_token":"","pre_2_token":"","post_1_token":"rhea","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sigerson morrison 7092 silver","entity_value":"morrison","pre_1_token":"sigerson","pre_2_token":"","post_1_token":"7092","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nana maggie women's pump","entity_value":"nana","pre_1_token":"","pre_2_token":"","post_1_token":"maggie","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hot box vapors vaporizer","entity_value":"box","pre_1_token":"hot","pre_2_token":"","post_1_token":"vapors","post_2_token":"vaporizer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"m by m kalan women's pintuck dress","entity_value":"kalan","pre_1_token":"m","pre_2_token":"by","post_1_token":"women's","post_2_token":"pintuck"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"helly hansen helly lite black/white","entity_value":"helly","pre_1_token":"","pre_2_token":"","post_1_token":"hansen","post_2_token":"helly"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sag harbor skirt suit","entity_value":"harbor","pre_1_token":"sag","pre_2_token":"","post_1_token":"skirt","post_2_token":"suit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emilio pucci women's sneakers","entity_value":"emilio","pre_1_token":"","pre_2_token":"","post_1_token":"pucci","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"baffin mammoth pewter","entity_value":"baffin","pre_1_token":"","pre_2_token":"","post_1_token":"mammoth","post_2_token":"pewter"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"caffeine men's corduroy blazer","entity_value":"caffeine","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"corduroy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"madeline monica silver","entity_value":"madeline","pre_1_token":"","pre_2_token":"","post_1_token":"monica","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pazzo dax leather handbag","entity_value":"pazzo","pre_1_token":"","pre_2_token":"","post_1_token":"dax","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"elie tahari reese sweater","entity_value":"elie","pre_1_token":"","pre_2_token":"","post_1_token":"tahari","post_2_token":"reese"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jumping jacks monarch (infant/toddler) black leather","entity_value":"jacks","pre_1_token":"jumping","pre_2_token":"","post_1_token":"monarch","post_2_token":"(infant/toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"james oliver addie khaki","entity_value":"oliver","pre_1_token":"james","pre_2_token":"","post_1_token":"addie","post_2_token":"khaki"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hush puppies sunblaze black","entity_value":"puppies","pre_1_token":"hush","pre_2_token":"","post_1_token":"sunblaze","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vans tolan ls vans checks/coffee/white","entity_value":"vans","pre_1_token":"","pre_2_token":"","post_1_token":"tolan","post_2_token":"ls"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zoo med laboratories zoo med floating aquarium","entity_value":"zoo","pre_1_token":"","pre_2_token":"","post_1_token":"med","post_2_token":"laboratories"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oleg cassini 'cassini' women's 1.7 oz eau de parfum spray","entity_value":"cassini","pre_1_token":"oleg","pre_2_token":"","post_1_token":"'cassini'","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"live mechanics men's omega jacket","entity_value":"mechanics","pre_1_token":"live","pre_2_token":"","post_1_token":"men's","post_2_token":"omega"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"report men's black pant","entity_value":"report","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dr martens jim mules","entity_value":"martens","pre_1_token":"dr","pre_2_token":"","post_1_token":"jim","post_2_token":"mules"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"refresh women's 'toni-01' round toe oxfords","entity_value":"refresh","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'toni-01'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"energie men's denim jeans","entity_value":"energie","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"element tigris white/brown","entity_value":"element","pre_1_token":"","pre_2_token":"","post_1_token":"tigris","post_2_token":"white/brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tabeez women's stretchy skirt","entity_value":"tabeez","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"stretchy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"indigo by clarks pallino indigo blue leather","entity_value":"indigo","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"clarks"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ros hommerson linda natural","entity_value":"ros","pre_1_token":"","pre_2_token":"","post_1_token":"hommerson","post_2_token":"linda"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cynthia vincent alice yellow","entity_value":"cynthia","pre_1_token":"","pre_2_token":"","post_1_token":"vincent","post_2_token":"alice"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"miss sixty flan sunglasses","entity_value":"sixty","pre_1_token":"miss","pre_2_token":"","post_1_token":"flan","post_2_token":"sunglasses"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"quiksilver 'quiksilver' men's three-piece fragrance set","entity_value":"quiksilver","pre_1_token":"","pre_2_token":"","post_1_token":"'quiksilver'","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cullen women's white hoodie","entity_value":"cullen","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dkny women's zip jacket","entity_value":"dkny","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"zip"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oscar de la renta blazer","entity_value":"renta","pre_1_token":"la","pre_2_token":"de","post_1_token":"blazer","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rose tree desert rose euro sham","entity_value":"rose","pre_1_token":"","pre_2_token":"","post_1_token":"tree","post_2_token":"desert"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"taryn by taryn rose entrust silver nappa","entity_value":"taryn","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"taryn"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tango bohemian paisley tie","entity_value":"tango","pre_1_token":"","pre_2_token":"","post_1_token":"bohemian","post_2_token":"paisley"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"christian dior dior 0055","entity_value":"dior","pre_1_token":"christian","pre_2_token":"","post_1_token":"dior","post_2_token":"0055"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"enzo angiolini barnet boots","entity_value":"enzo","pre_1_token":"","pre_2_token":"","post_1_token":"angiolini","post_2_token":"barnet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"etnies faction brown/white","entity_value":"etnies","pre_1_token":"","pre_2_token":"","post_1_token":"faction","post_2_token":"brown/white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"in character costumes pink elephant","entity_value":"costumes","pre_1_token":"character","pre_2_token":"in","post_1_token":"pink","post_2_token":"elephant"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dolphino screen printed henley","entity_value":"dolphino","pre_1_token":"","pre_2_token":"","post_1_token":"screen","post_2_token":"printed"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"shane&shawn hazel black","entity_value":"shawn","pre_1_token":"","pre_2_token":"","post_1_token":"hazel","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"roar men's nordhaven vest","entity_value":"roar","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"nordhaven"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"columbia teraval columbia wheat","entity_value":"columbia","pre_1_token":"","pre_2_token":"","post_1_token":"teraval","post_2_token":"columbia"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joseph's cloak men's plaid sportshirt","entity_value":"joseph's","pre_1_token":"","pre_2_token":"","post_1_token":"cloak","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"chaudry red sleeveless dress","entity_value":"chaudry","pre_1_token":"","pre_2_token":"","post_1_token":"red","post_2_token":"sleeveless"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kid express vivian (toddler) fuchsia","entity_value":"express","pre_1_token":"kid","pre_2_token":"","post_1_token":"vivian","post_2_token":"(toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dmitry silk patterned scarf","entity_value":"dmitry","pre_1_token":"","pre_2_token":"","post_1_token":"silk","post_2_token":"patterned"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"havana joe tripper travelling oxford","entity_value":"joe","pre_1_token":"havana","pre_2_token":"","post_1_token":"tripper","post_2_token":"travelling"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nautica men's nautica blue swimsuit","entity_value":"nautica","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"nautica"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pelle pelle leather jacket","entity_value":"pelle","pre_1_token":"","pre_2_token":"","post_1_token":"pelle","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joan david classic women's shoes","entity_value":"joan","pre_1_token":"","pre_2_token":"","post_1_token":"david","post_2_token":"classic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"coup d'etat amy black pump","entity_value":"d'etat","pre_1_token":"coup","pre_2_token":"","post_1_token":"amy","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sweet pea women's surplice","entity_value":"pea","pre_1_token":"sweet","pre_2_token":"","post_1_token":"women's","post_2_token":"surplice"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"modern vintage fabia gold vintage bilos sandals","entity_value":"vintage","pre_1_token":"modern","pre_2_token":"","post_1_token":"fabia","post_2_token":"gold"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"daniel green naples green","entity_value":"green","pre_1_token":"daniel","pre_2_token":"","post_1_token":"naples","post_2_token":"green"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kate spade pru gunmetal","entity_value":"spade","pre_1_token":"kate","pre_2_token":"","post_1_token":"pru","post_2_token":"gunmetal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"elle mobility moss/chocolate","entity_value":"elle","pre_1_token":"","pre_2_token":"","post_1_token":"mobility","post_2_token":"moss/chocolate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"club clean golf ball / golf club cleaner","entity_value":"club","pre_1_token":"","pre_2_token":"","post_1_token":"clean","post_2_token":"golf"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sesto meucci smarty women's sandals","entity_value":"meucci","pre_1_token":"sesto","pre_2_token":"","post_1_token":"smarty","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sam & libby lana natural","entity_value":"libby","pre_1_token":"&","pre_2_token":"sam","post_1_token":"lana","post_2_token":"natural"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"argenti chiffon maxi dress","entity_value":"argenti","pre_1_token":"","pre_2_token":"","post_1_token":"chiffon","post_2_token":"maxi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emily 2-piece pantsuit","entity_value":"emily","pre_1_token":"","pre_2_token":"","post_1_token":"2-piece","post_2_token":"pantsuit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pierre cardin men's watch","entity_value":"pierre","pre_1_token":"","pre_2_token":"","post_1_token":"cardin","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"roxy heidi olive","entity_value":"roxy","pre_1_token":"","pre_2_token":"","post_1_token":"heidi","post_2_token":"olive"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"type z spark white","entity_value":"type","pre_1_token":"","pre_2_token":"","post_1_token":"z","post_2_token":"spark"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jil sander brown pumps","entity_value":"jil","pre_1_token":"","pre_2_token":"","post_1_token":"sander","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jessica howard keyhole dress","entity_value":"howard","pre_1_token":"jessica","pre_2_token":"","post_1_token":"keyhole","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"giuseppe zanotti i6275 eggplant","entity_value":"giuseppe","pre_1_token":"","pre_2_token":"","post_1_token":"zanotti","post_2_token":"i6275"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nicole miller lambskin satchel","entity_value":"miller","pre_1_token":"nicole","pre_2_token":"","post_1_token":"lambskin","post_2_token":"satchel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dakota men's aluminum watch","entity_value":"dakota","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"aluminum"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"robbie bee coral shantung pantsuit","entity_value":"bee","pre_1_token":"robbie","pre_2_token":"","post_1_token":"coral","post_2_token":"shantung"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"team concepts smart alex","entity_value":"team","pre_1_token":"","pre_2_token":"","post_1_token":"concepts","post_2_token":"smart"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ben sherman speedy sneakers","entity_value":"ben","pre_1_token":"","pre_2_token":"","post_1_token":"sherman","post_2_token":"speedy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stephanie rogers crewneck cardigan","entity_value":"rogers","pre_1_token":"stephanie","pre_2_token":"","post_1_token":"crewneck","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"paul smith rigg tan","entity_value":"paul","pre_1_token":"","pre_2_token":"","post_1_token":"smith","post_2_token":"rigg"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ermenegildo zegna silk tie","entity_value":"ermenegildo","pre_1_token":"","pre_2_token":"","post_1_token":"zegna","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emilio pucci women's sneakers","entity_value":"pucci","pre_1_token":"emilio","pre_2_token":"","post_1_token":"women's","post_2_token":"sneakers"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dress up america women's blue pixie dress","entity_value":"dress","pre_1_token":"","pre_2_token":"","post_1_token":"up","post_2_token":"america"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"penny black 'pinnacle' rubber stamp","entity_value":"penny","pre_1_token":"","pre_2_token":"","post_1_token":"black","post_2_token":"'pinnacle'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"andrew fezza men's black suit","entity_value":"fezza","pre_1_token":"andrew","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"giuseppe zanotti i6275 eggplant","entity_value":"zanotti","pre_1_token":"giuseppe","pre_2_token":"","post_1_token":"i6275","post_2_token":"eggplant"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"christian dior lady purse","entity_value":"christian","pre_1_token":"","pre_2_token":"","post_1_token":"dior","post_2_token":"lady"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vigoss men's contemporary parka","entity_value":"vigoss","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"contemporary"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"frizz ease miraculous recovery","entity_value":"ease","pre_1_token":"frizz","pre_2_token":"","post_1_token":"miraculous","post_2_token":"recovery"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"seychelles star treatment black","entity_value":"seychelles","pre_1_token":"","pre_2_token":"","post_1_token":"star","post_2_token":"treatment"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bertolini men's black wool/ silk vested suit","entity_value":"bertolini","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"super soft tiger pillow","entity_value":"super","pre_1_token":"","pre_2_token":"","post_1_token":"soft","post_2_token":"tiger"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"o.h.h.a 100 silk tie","entity_value":"o.h.h.a","pre_1_token":"","pre_2_token":"","post_1_token":"100","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"softwalk bali limon green","entity_value":"softwalk","pre_1_token":"","pre_2_token":"","post_1_token":"bali","post_2_token":"limon"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"crocs islander khaki/chocolate","entity_value":"crocs","pre_1_token":"","pre_2_token":"","post_1_token":"islander","post_2_token":"khaki/chocolate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sean john boy's windbreaker","entity_value":"sean","pre_1_token":"","pre_2_token":"","post_1_token":"john","post_2_token":"boy's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sandra darren skirt set","entity_value":"sandra","pre_1_token":"","pre_2_token":"","post_1_token":"darren","post_2_token":"skirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"promiscuous bettie grey boots","entity_value":"promiscuous","pre_1_token":"","pre_2_token":"","post_1_token":"bettie","post_2_token":"grey"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rip curl damo beige","entity_value":"rip","pre_1_token":"","pre_2_token":"","post_1_token":"curl","post_2_token":"damo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"camper damas-20415 tan","entity_value":"camper","pre_1_token":"","pre_2_token":"","post_1_token":"damas-20415","post_2_token":"tan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joey o glora blue","entity_value":"joey","pre_1_token":"","pre_2_token":"","post_1_token":"o","post_2_token":"glora"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"palladium shuttle women's sneaker","entity_value":"palladium","pre_1_token":"","pre_2_token":"","post_1_token":"shuttle","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"levi's circles black","entity_value":"levi's","pre_1_token":"","pre_2_token":"","post_1_token":"circles","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"on your feet igloo slipper","entity_value":"your","pre_1_token":"on","pre_2_token":"","post_1_token":"feet","post_2_token":"igloo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"majesty s animal nutrition majesty flex wafers","entity_value":"majesty","pre_1_token":"","pre_2_token":"","post_1_token":"s","post_2_token":"animal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"duck sport shearling coat","entity_value":"sport","pre_1_token":"duck","pre_2_token":"","post_1_token":"shearling","post_2_token":"coat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bloom 111cm spaceship snowboard","entity_value":"bloom","pre_1_token":"","pre_2_token":"","post_1_token":"111cm","post_2_token":"spaceship"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"blue bottle kids 0500402 (infant/toddler) pink","entity_value":"bottle","pre_1_token":"blue","pre_2_token":"","post_1_token":"kids","post_2_token":"0500402"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sontarra lip luxury kit","entity_value":"luxury","pre_1_token":"lip","pre_2_token":"sontarra","post_1_token":"kit","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stuart weitzman orbballe misty","entity_value":"stuart","pre_1_token":"","pre_2_token":"","post_1_token":"weitzman","post_2_token":"orbballe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jlo suede coat","entity_value":"jlo","pre_1_token":"","pre_2_token":"","post_1_token":"suede","post_2_token":"coat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bronx lina women's boot","entity_value":"bronx","pre_1_token":"","pre_2_token":"","post_1_token":"lina","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"burnside men's woven shirt","entity_value":"burnside","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"woven"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rsvp heidi black boots","entity_value":"rsvp","pre_1_token":"","pre_2_token":"","post_1_token":"heidi","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"david tate band pewter","entity_value":"tate","pre_1_token":"david","pre_2_token":"","post_1_token":"band","post_2_token":"pewter"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"santana dasha black leather","entity_value":"santana","pre_1_token":"","pre_2_token":"","post_1_token":"dasha","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"spring step mango white","entity_value":"step","pre_1_token":"spring","pre_2_token":"","post_1_token":"mango","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sugar sugar hill black","entity_value":"sugar","pre_1_token":"","pre_2_token":"","post_1_token":"sugar","post_2_token":"hill"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"everyday clothing knit sequined shrug","entity_value":"everyday","pre_1_token":"","pre_2_token":"","post_1_token":"clothing","post_2_token":"knit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"madden girl by steve madden tweed clogs","entity_value":"madden","pre_1_token":"","pre_2_token":"","post_1_token":"girl","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"venettini kids pame-23 (toddler/youth) fuchsia","entity_value":"venettini","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"pame-23"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nice girls' lauren skateboard shoes","entity_value":"nice","pre_1_token":"","pre_2_token":"","post_1_token":"girls'","post_2_token":"lauren"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"taverniti women's bootcut jeans","entity_value":"taverniti","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"bootcut"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pop icon men's woven shirt","entity_value":"pop","pre_1_token":"","pre_2_token":"","post_1_token":"icon","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hart schaffner & marx men's turtleneck sweater","entity_value":"schaffner","pre_1_token":"hart","pre_2_token":"","post_1_token":"&","post_2_token":"marx"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"yellow box poptoit yellow","entity_value":"yellow","pre_1_token":"","pre_2_token":"","post_1_token":"box","post_2_token":"poptoit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"iacovelli kids 1411 (toddler) pink leather","entity_value":"iacovelli","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"1411"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"wilson jones line memo book","entity_value":"jones","pre_1_token":"wilson","pre_2_token":"","post_1_token":"line","post_2_token":"memo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dma elements cocktail shaker","entity_value":"elements","pre_1_token":"dma","pre_2_token":"","post_1_token":"cocktail","post_2_token":"shaker"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rxb women's soutache tee","entity_value":"rxb","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"soutache"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"california exotics intimate douche","entity_value":"california","pre_1_token":"","pre_2_token":"","post_1_token":"exotics","post_2_token":"intimate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"triple five soul bonchinche black/soul white","entity_value":"soul","pre_1_token":"five","pre_2_token":"triple","post_1_token":"bonchinche","post_2_token":"black/soul"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moda spana raise black","entity_value":"spana","pre_1_token":"moda","pre_2_token":"","post_1_token":"raise","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rocawear men's puffer coat","entity_value":"rocawear","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"puffer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"materia prima by goffredo fantini zm4375 brown","entity_value":"fantini","pre_1_token":"goffredo","pre_2_token":"by","post_1_token":"zm4375","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bastien sophie blk suede","entity_value":"bastien","pre_1_token":"","pre_2_token":"","post_1_token":"sophie","post_2_token":"blk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"royal elastics dalech parchment","entity_value":"elastics","pre_1_token":"royal","pre_2_token":"","post_1_token":"dalech","post_2_token":"parchment"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"los angeles pop art women's 'los angeles' v-neck shirt","entity_value":"los","pre_1_token":"","pre_2_token":"","post_1_token":"angeles","post_2_token":"pop"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rg512 sandblasted denim jeans","entity_value":"rg512","pre_1_token":"","pre_2_token":"","post_1_token":"sandblasted","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"do denim men's denim jeans","entity_value":"denim","pre_1_token":"do","pre_2_token":"","post_1_token":"men's","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mavi men's checkered shirt","entity_value":"mavi","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"checkered"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"chaps cambridge navy shortcoats","entity_value":"chaps","pre_1_token":"","pre_2_token":"","post_1_token":"cambridge","post_2_token":"navy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lakai mariano black h.a.","entity_value":"lakai","pre_1_token":"","pre_2_token":"","post_1_token":"mariano","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"almarino kids 11243 (youth) jeans","entity_value":"almarino","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"11243"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"christin michaels salama silver flats","entity_value":"christin","pre_1_token":"","pre_2_token":"","post_1_token":"michaels","post_2_token":"salama"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ipath 2007 white/tweed","entity_value":"ipath","pre_1_token":"","pre_2_token":"","post_1_token":"2007","post_2_token":"white/tweed"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ecko unlimited white backpack","entity_value":"unlimited","pre_1_token":"ecko","pre_2_token":"","post_1_token":"white","post_2_token":"backpack"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"charles by charles david women's 'dottie' pumps","entity_value":"charles","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"charles"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rapid run rapid run 10 foot s-video + composite","entity_value":"run","pre_1_token":"rapid","pre_2_token":"","post_1_token":"rapid","post_2_token":"run"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"clean laundry by english laundry stripe shirt","entity_value":"laundry","pre_1_token":"clean","pre_2_token":"","post_1_token":"by","post_2_token":"english"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bear usa infant snowsuit","entity_value":"usa","pre_1_token":"bear","pre_2_token":"","post_1_token":"infant","post_2_token":"snowsuit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"frye ellie multi bark","entity_value":"frye","pre_1_token":"","pre_2_token":"","post_1_token":"ellie","post_2_token":"multi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"perry ellis fleece pullover","entity_value":"perry","pre_1_token":"","pre_2_token":"","post_1_token":"ellis","post_2_token":"fleece"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pierre cardin men's watch","entity_value":"cardin","pre_1_token":"pierre","pre_2_token":"","post_1_token":"men's","post_2_token":"watch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bcbg celtic leather mules","entity_value":"bcbg","pre_1_token":"","pre_2_token":"","post_1_token":"celtic","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"american crafts american crafts cardstock","entity_value":"american","pre_1_token":"","pre_2_token":"","post_1_token":"crafts","post_2_token":"american"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"converse aerial eyeglasses frame","entity_value":"converse","pre_1_token":"","pre_2_token":"","post_1_token":"aerial","post_2_token":"eyeglasses"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"alexander julian men's overcoat","entity_value":"julian","pre_1_token":"alexander","pre_2_token":"","post_1_token":"men's","post_2_token":"overcoat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"baby phat fantasy baby pink","entity_value":"baby","pre_1_token":"","pre_2_token":"","post_1_token":"phat","post_2_token":"fantasy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"js collections stretch top","entity_value":"collections","pre_1_token":"js","pre_2_token":"","post_1_token":"stretch","post_2_token":"top"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"buffalo tools rabbit hutch","entity_value":"buffalo","pre_1_token":"","pre_2_token":"","post_1_token":"tools","post_2_token":"rabbit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"carter humphrey mckenzie pants","entity_value":"carter","pre_1_token":"","pre_2_token":"","post_1_token":"humphrey","post_2_token":"mckenzie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"corso como milan black boots","entity_value":"como","pre_1_token":"corso","pre_2_token":"","post_1_token":"milan","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gola trip distressed khaki","entity_value":"gola","pre_1_token":"","pre_2_token":"","post_1_token":"trip","post_2_token":"distressed"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"majesty & royalty men's junkies shirt","entity_value":"royalty","pre_1_token":"&","pre_2_token":"majesty","post_1_token":"men's","post_2_token":"junkies"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"alexander mcqueen fashion sunglasses","entity_value":"alexander","pre_1_token":"","pre_2_token":"","post_1_token":"mcqueen","post_2_token":"fashion"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"baci rebecca black","entity_value":"baci","pre_1_token":"","pre_2_token":"","post_1_token":"rebecca","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"colour works knit crocheted vest","entity_value":"works","pre_1_token":"colour","pre_2_token":"","post_1_token":"knit","post_2_token":"crocheted"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"design originals welcome wreaths","entity_value":"originals","pre_1_token":"design","pre_2_token":"","post_1_token":"welcome","post_2_token":"wreaths"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stuhrling original the langelinie","entity_value":"original","pre_1_token":"stuhrling","pre_2_token":"","post_1_token":"the","post_2_token":"langelinie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hype butter shoulder bag","entity_value":"hype","pre_1_token":"","pre_2_token":"","post_1_token":"butter","post_2_token":"shoulder"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"not rated majesty cream","entity_value":"rated","pre_1_token":"not","pre_2_token":"","post_1_token":"majesty","post_2_token":"cream"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"world industries 'tribute' t-shirt","entity_value":"world","pre_1_token":"","pre_2_token":"","post_1_token":"industries","post_2_token":"'tribute'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cara gold wrap bracelet","entity_value":"cara","pre_1_token":"","pre_2_token":"","post_1_token":"gold","post_2_token":"wrap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"creative recreation fidel blue","entity_value":"recreation","pre_1_token":"creative","pre_2_token":"","post_1_token":"fidel","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"faryl robin farley pea","entity_value":"robin","pre_1_token":"faryl","pre_2_token":"","post_1_token":"farley","post_2_token":"pea"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"beautifeel athens black patent","entity_value":"beautifeel","pre_1_token":"","pre_2_token":"","post_1_token":"athens","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"care free enzymes hummingbird feeder","entity_value":"care","pre_1_token":"","pre_2_token":"","post_1_token":"free","post_2_token":"enzymes"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bush series workstation","entity_value":"bush","pre_1_token":"","pre_2_token":"","post_1_token":"series","post_2_token":"workstation"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"three dots seamed skirt","entity_value":"dots","pre_1_token":"three","pre_2_token":"","post_1_token":"seamed","post_2_token":"skirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"simply irresistible jeweled camisole","entity_value":"irresistible","pre_1_token":"simply","pre_2_token":"","post_1_token":"jeweled","post_2_token":"camisole"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dolce vita abigail bronze","entity_value":"vita","pre_1_token":"dolce","pre_2_token":"","post_1_token":"abigail","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rubie s costume co 21039 lil linebacker","entity_value":"rubie","pre_1_token":"","pre_2_token":"","post_1_token":"s","post_2_token":"costume"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"collezione italia tan pinstripe suit","entity_value":"collezione","pre_1_token":"","pre_2_token":"","post_1_token":"italia","post_2_token":"tan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"larry levine buttoned cardigan","entity_value":"levine","pre_1_token":"larry","pre_2_token":"","post_1_token":"buttoned","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"karin stevens skirt set","entity_value":"karin","pre_1_token":"","pre_2_token":"","post_1_token":"stevens","post_2_token":"skirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bobbi blu astria bone leather","entity_value":"bobbi","pre_1_token":"","pre_2_token":"","post_1_token":"blu","post_2_token":"astria"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sweet romance cameo pin","entity_value":"sweet","pre_1_token":"","pre_2_token":"","post_1_token":"romance","post_2_token":"cameo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joseph abboud men's trousers","entity_value":"joseph","pre_1_token":"","pre_2_token":"","post_1_token":"abboud","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"weatherproof micro suede shirt","entity_value":"weatherproof","pre_1_token":"","pre_2_token":"","post_1_token":"micro","post_2_token":"suede"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ltb extended tab jeans","entity_value":"ltb","pre_1_token":"","pre_2_token":"","post_1_token":"extended","post_2_token":"tab"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"english laundry men's hoodie","entity_value":"english","pre_1_token":"","pre_2_token":"","post_1_token":"laundry","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ltd peak snowboard","entity_value":"ltd","pre_1_token":"","pre_2_token":"","post_1_token":"peak","post_2_token":"snowboard"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"khombu highland red","entity_value":"khombu","pre_1_token":"","pre_2_token":"","post_1_token":"highland","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"famous ny maker houndstooth pantsuit","entity_value":"famous","pre_1_token":"","pre_2_token":"","post_1_token":"ny","post_2_token":"maker"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"replay crochet tunic","entity_value":"replay","pre_1_token":"","pre_2_token":"","post_1_token":"crochet","post_2_token":"tunic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"walking cradles stretch black","entity_value":"walking","pre_1_token":"","pre_2_token":"","post_1_token":"cradles","post_2_token":"stretch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"babybotte aurore (toddler) plum patent","entity_value":"babybotte","pre_1_token":"","pre_2_token":"","post_1_token":"aurore","post_2_token":"(toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joseph's cloak men's plaid sportshirt","entity_value":"cloak","pre_1_token":"joseph's","pre_2_token":"","post_1_token":"men's","post_2_token":"plaid"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"apepazza diva women's sandal","entity_value":"apepazza","pre_1_token":"","pre_2_token":"","post_1_token":"diva","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"romeo & juliet 'gabriella' satchel","entity_value":"juliet","pre_1_token":"&","pre_2_token":"romeo","post_1_token":"'gabriella'","post_2_token":"satchel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"leisureland women's meow robe","entity_value":"leisureland","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"meow"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cockpit men's polo","entity_value":"cockpit","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"polo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vera bradley women's vera bag","entity_value":"vera","pre_1_token":"","pre_2_token":"","post_1_token":"bradley","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dr. scholl's foot spa","entity_value":"scholl's","pre_1_token":"dr.","pre_2_token":"","post_1_token":"foot","post_2_token":"spa"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"beverly feldman mirabel silver","entity_value":"beverly","pre_1_token":"","pre_2_token":"","post_1_token":"feldman","post_2_token":"mirabel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gianfranco ferre 'ferre' men's 2.5-oz aftershave","entity_value":"ferre","pre_1_token":"gianfranco","pre_2_token":"","post_1_token":"'ferre'","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mark nason nefarious brown","entity_value":"nason","pre_1_token":"mark","pre_2_token":"","post_1_token":"nefarious","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"eliza j stretch lace dress","entity_value":"eliza","pre_1_token":"","pre_2_token":"","post_1_token":"j","post_2_token":"stretch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"seven 7 women's jeggin jeans","entity_value":"seven","pre_1_token":"","pre_2_token":"","post_1_token":"7","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"euro pro super pro canister vacuum","entity_value":"pro","pre_1_token":"euro","pre_2_token":"","post_1_token":"super","post_2_token":"pro"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"betula rock mocha clog","entity_value":"betula","pre_1_token":"","pre_2_token":"","post_1_token":"rock","post_2_token":"mocha"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zegna men's olive trouser","entity_value":"zegna","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"olive"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"touch ups tiffany bronze","entity_value":"ups","pre_1_token":"touch","pre_2_token":"","post_1_token":"tiffany","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"old gringo texas peanut","entity_value":"gringo","pre_1_token":"old","pre_2_token":"","post_1_token":"texas","post_2_token":"peanut"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"wyoming wear glacier moccasins","entity_value":"wear","pre_1_token":"wyoming","pre_2_token":"","post_1_token":"glacier","post_2_token":"moccasins"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rockport prowalker men's shoes","entity_value":"rockport","pre_1_token":"","pre_2_token":"","post_1_token":"prowalker","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naughty monkey 'combat' heels","entity_value":"monkey","pre_1_token":"naughty","pre_2_token":"","post_1_token":"'combat'","post_2_token":"heels"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rrr designs pleated halter dress","entity_value":"rrr","pre_1_token":"","pre_2_token":"","post_1_token":"designs","post_2_token":"pleated"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"versace men's versace classic dress shirt","entity_value":"versace","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"versace"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bcbg max azria carlite mahogony","entity_value":"azria","pre_1_token":"max","pre_2_token":"bcbg","post_1_token":"carlite","post_2_token":"mahogony"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"betsey j hello betsey weekender","entity_value":"betsey","pre_1_token":"","pre_2_token":"","post_1_token":"j","post_2_token":"hello"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"patra gold dress set","entity_value":"patra","pre_1_token":"","pre_2_token":"","post_1_token":"gold","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pf flyers pintail white","entity_value":"flyers","pre_1_token":"pf","pre_2_token":"","post_1_token":"pintail","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"platinum ties men's 'blue casual' tie","entity_value":"ties","pre_1_token":"platinum","pre_2_token":"","post_1_token":"men's","post_2_token":"'blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"umi kids tropical (toddler) avocado","entity_value":"umi","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"tropical"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sag harbor skirt suit","entity_value":"sag","pre_1_token":"","pre_2_token":"","post_1_token":"harbor","post_2_token":"skirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"anthology men's silk blend shirt","entity_value":"anthology","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"trotters bracey goldwash/pewter","entity_value":"trotters","pre_1_token":"","pre_2_token":"","post_1_token":"bracey","post_2_token":"goldwash/pewter"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sam & libby lana natural","entity_value":"sam","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"libby"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"morgan&milo kids blake sweater (toddler) pink","entity_value":"milo","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"blake"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"caparros norma bronze metallic","entity_value":"caparros","pre_1_token":"","pre_2_token":"","post_1_token":"norma","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"thirtytwo ultralight 08 silver","entity_value":"thirtytwo","pre_1_token":"","pre_2_token":"","post_1_token":"ultralight","post_2_token":"08"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kangaroos step boot brown","entity_value":"kangaroos","pre_1_token":"","pre_2_token":"","post_1_token":"step","post_2_token":"boot"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pour la victoire rebecca dark brown boots","entity_value":"pour","pre_1_token":"","pre_2_token":"","post_1_token":"la","post_2_token":"victoire"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"martinez valero chime gold","entity_value":"valero","pre_1_token":"martinez","pre_2_token":"","post_1_token":"chime","post_2_token":"gold"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"morgan square coffee table","entity_value":"morgan","pre_1_token":"","pre_2_token":"","post_1_token":"square","post_2_token":"coffee"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"celebrity pink denim capris","entity_value":"pink","pre_1_token":"celebrity","pre_2_token":"","post_1_token":"denim","post_2_token":"capris"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"exchange by charles david freestyle black satin","entity_value":"exchange","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"charles"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ecco ecco century slip-on sand leather","entity_value":"ecco","pre_1_token":"","pre_2_token":"","post_1_token":"ecco","post_2_token":"century"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"blue marlin men's minuzo jacket","entity_value":"marlin","pre_1_token":"blue","pre_2_token":"","post_1_token":"men's","post_2_token":"minuzo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cienta kids shoes 109-4403 (toddler) pink","entity_value":"cienta","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"shoes"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kaktus women's open vest","entity_value":"kaktus","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"open"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stride rite wiggle (infant) pink","entity_value":"stride","pre_1_token":"","pre_2_token":"","post_1_token":"rite","post_2_token":"wiggle"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ripzone surfside shorts (men's)","entity_value":"ripzone","pre_1_token":"","pre_2_token":"","post_1_token":"surfside","post_2_token":"shorts"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gabriella rocha bully brown","entity_value":"gabriella","pre_1_token":"","pre_2_token":"","post_1_token":"rocha","post_2_token":"bully"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hugo hugo boss herman olive","entity_value":"hugo","pre_1_token":"","pre_2_token":"","post_1_token":"hugo","post_2_token":"boss"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"perlina double handle satchel","entity_value":"perlina","pre_1_token":"","pre_2_token":"","post_1_token":"double","post_2_token":"handle"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"not rated majesty cream","entity_value":"not","pre_1_token":"","pre_2_token":"","post_1_token":"rated","post_2_token":"majesty"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lotto serie a turf black","entity_value":"lotto","pre_1_token":"","pre_2_token":"","post_1_token":"serie","post_2_token":"a"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rachel reinhardt chandelier earrings","entity_value":"rachel","pre_1_token":"","pre_2_token":"","post_1_token":"reinhardt","post_2_token":"chandelier"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zanetti men's striped dress shirt","entity_value":"zanetti","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"striped"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"roberto cavalli heeled sandal","entity_value":"roberto","pre_1_token":"","pre_2_token":"","post_1_token":"cavalli","post_2_token":"heeled"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bandolino women's 'joab' heels","entity_value":"bandolino","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'joab'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"airwalk wombat kid's shoes","entity_value":"airwalk","pre_1_token":"","pre_2_token":"","post_1_token":"wombat","post_2_token":"kid's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"antik embroidered denim jean","entity_value":"antik","pre_1_token":"","pre_2_token":"","post_1_token":"embroidered","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gentle souls lanie olive","entity_value":"souls","pre_1_token":"gentle","pre_2_token":"","post_1_token":"lanie","post_2_token":"olive"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"irwin strait-line 100-foot replacement line","entity_value":"line","pre_1_token":"irwin","pre_2_token":"","post_1_token":"100-foot","post_2_token":"replacement"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"self esteem polka dot top","entity_value":"self","pre_1_token":"","pre_2_token":"","post_1_token":"esteem","post_2_token":"polka"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"h. luzzario & co black silk skinny tie","entity_value":"luzzario","pre_1_token":"h.","pre_2_token":"","post_1_token":"&","post_2_token":"co"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"evan picone women's pants","entity_value":"picone","pre_1_token":"evan","pre_2_token":"","post_1_token":"women's","post_2_token":"pants"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"signe paris zora trousers","entity_value":"paris","pre_1_token":"signe","pre_2_token":"","post_1_token":"zora","post_2_token":"trousers"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bearpaw women's 'emma' boots","entity_value":"bearpaw","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'emma'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"braqeez kids pal (toddler) mocca","entity_value":"braqeez","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"pal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"forever silk lavender fields silk plant","entity_value":"silk","pre_1_token":"forever","pre_2_token":"","post_1_token":"lavender","post_2_token":"fields"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"karl kani men's 5-pocket kani mood denim","entity_value":"kani","pre_1_token":"karl","pre_2_token":"","post_1_token":"men's","post_2_token":"5-pocket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adrienne vittadini leather handbag","entity_value":"vittadini","pre_1_token":"adrienne","pre_2_token":"","post_1_token":"leather","post_2_token":"handbag"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pinko malinconia cardigan","entity_value":"pinko","pre_1_token":"","pre_2_token":"","post_1_token":"malinconia","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kaelyn max women's blouse","entity_value":"kaelyn","pre_1_token":"","pre_2_token":"","post_1_token":"max","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"allyson cara women's plus size plaid cape","entity_value":"allyson","pre_1_token":"","pre_2_token":"","post_1_token":"cara","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oh! mamma maternity elastic band pants","entity_value":"mamma","pre_1_token":"oh!","pre_2_token":"","post_1_token":"maternity","post_2_token":"elastic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hailey emroidered rose military hat","entity_value":"hailey","pre_1_token":"","pre_2_token":"","post_1_token":"emroidered","post_2_token":"rose"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dragonfly king helicopter","entity_value":"dragonfly","pre_1_token":"","pre_2_token":"","post_1_token":"king","post_2_token":"helicopter"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"annie jedis silver smooth","entity_value":"annie","pre_1_token":"","pre_2_token":"","post_1_token":"jedis","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"a.b.s. black dress","entity_value":"a.b.s","pre_1_token":"","pre_2_token":"","post_1_token":"black","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"debbie shuchat boatneck sweater","entity_value":"debbie","pre_1_token":"","pre_2_token":"","post_1_token":"shuchat","post_2_token":"boatneck"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mark alan women's suede blazer","entity_value":"alan","pre_1_token":"mark","pre_2_token":"","post_1_token":"women's","post_2_token":"suede"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"connected apparel chiffon dress","entity_value":"connected","pre_1_token":"","pre_2_token":"","post_1_token":"apparel","post_2_token":"chiffon"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"minnetonka nisswa brown leather","entity_value":"minnetonka","pre_1_token":"","pre_2_token":"","post_1_token":"nisswa","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"existential men's 'peace' hoodie","entity_value":"existential","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"'peace'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"laguna beach men's 'capistrano beach' engineered denim","entity_value":"beach","pre_1_token":"laguna","pre_2_token":"","post_1_token":"men's","post_2_token":"'capistrano"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tribeca queen-size bed","entity_value":"tribeca","pre_1_token":"","pre_2_token":"","post_1_token":"queen-size","post_2_token":"bed"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ben sherman speedy sneakers","entity_value":"sherman","pre_1_token":"ben","pre_2_token":"","post_1_token":"speedy","post_2_token":"sneakers"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bed head chocolate head (3-pack)","entity_value":"head","pre_1_token":"bed","pre_2_token":"","post_1_token":"chocolate","post_2_token":"head"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"drew ben cognac nubuck","entity_value":"drew","pre_1_token":"","pre_2_token":"","post_1_token":"ben","post_2_token":"cognac"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"robert clergerie nid bronze","entity_value":"robert","pre_1_token":"","pre_2_token":"","post_1_token":"clergerie","post_2_token":"nid"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"paris hilton marina bronze","entity_value":"hilton","pre_1_token":"paris","pre_2_token":"","post_1_token":"marina","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dolce & gabbana silk tie","entity_value":"gabbana","pre_1_token":"&","pre_2_token":"dolce","post_1_token":"silk","post_2_token":"tie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"divine apparel women's classic fashion skirt suit","entity_value":"divine","pre_1_token":"","pre_2_token":"","post_1_token":"apparel","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"french connection men's cardigan","entity_value":"connection","pre_1_token":"french","pre_2_token":"","post_1_token":"men's","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"marc by marc jacobs sunglasses","entity_value":"marc","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"marc"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"countess mara paisley ties","entity_value":"mara","pre_1_token":"countess","pre_2_token":"","post_1_token":"paisley","post_2_token":"ties"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"t.u.k. a6105l black/white","entity_value":"t.u.k","pre_1_token":"","pre_2_token":"","post_1_token":"a6105l","post_2_token":"black/white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mark nason nefarious brown","entity_value":"mark","pre_1_token":"","pre_2_token":"","post_1_token":"nason","post_2_token":"nefarious"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"garvalin kids 72347-a (toddler/youth) salmon","entity_value":"garvalin","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"72347-a"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jump apparel party dress","entity_value":"jump","pre_1_token":"","pre_2_token":"","post_1_token":"apparel","post_2_token":"party"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"junior drake leather tote bag","entity_value":"junior","pre_1_token":"","pre_2_token":"","post_1_token":"drake","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"corso como milan black boots","entity_value":"corso","pre_1_token":"","pre_2_token":"","post_1_token":"como","post_2_token":"milan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"chaco switch kiwi","entity_value":"chaco","pre_1_token":"","pre_2_token":"","post_1_token":"switch","post_2_token":"kiwi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tammy mars wrap top","entity_value":"mars","pre_1_token":"tammy","pre_2_token":"","post_1_token":"wrap","post_2_token":"top"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"robert graham men's woven shirt","entity_value":"graham","pre_1_token":"robert","pre_2_token":"","post_1_token":"men's","post_2_token":"woven"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hart schaffner & marx men's turtleneck sweater","entity_value":"marx","pre_1_token":"&","pre_2_token":"schaffner","post_1_token":"men's","post_2_token":"turtleneck"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pony rhodes palace/winter/pony red","entity_value":"pony","pre_1_token":"","pre_2_token":"","post_1_token":"rhodes","post_2_token":"palace/winter/pony"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"azaleia current black","entity_value":"azaleia","pre_1_token":"","pre_2_token":"","post_1_token":"current","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bc footwear automatic white","entity_value":"footwear","pre_1_token":"bc","pre_2_token":"","post_1_token":"automatic","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"the highest heel classic cork","entity_value":"highest","pre_1_token":"the","pre_2_token":"","post_1_token":"heel","post_2_token":"classic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"astrobrights colored paper","entity_value":"paper","pre_1_token":"colored","pre_2_token":"astrobrights","post_1_token":"","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"burton satellite bag","entity_value":"burton","pre_1_token":"","pre_2_token":"","post_1_token":"satellite","post_2_token":"bag"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"via spiga cammy bordo","entity_value":"spiga","pre_1_token":"via","pre_2_token":"","post_1_token":"cammy","post_2_token":"bordo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"school issue graduate (toddler) black","entity_value":"issue","pre_1_token":"school","pre_2_token":"","post_1_token":"graduate","post_2_token":"(toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bill blass flapover briefcase","entity_value":"blass","pre_1_token":"bill","pre_2_token":"","post_1_token":"flapover","post_2_token":"briefcase"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"north shore spinning reel","entity_value":"north","pre_1_token":"","pre_2_token":"","post_1_token":"shore","post_2_token":"spinning"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pablosky kids 452050 (toddler/youth) white/gold","entity_value":"pablosky","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"452050"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"italia designs leather sectional","entity_value":"designs","pre_1_token":"italia","pre_2_token":"","post_1_token":"leather","post_2_token":"sectional"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"august silk striped twinset","entity_value":"august","pre_1_token":"","pre_2_token":"","post_1_token":"silk","post_2_token":"striped"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sudini dallas women's boot","entity_value":"sudini","pre_1_token":"","pre_2_token":"","post_1_token":"dallas","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"harley-davidson hammer black","entity_value":"harley","pre_1_token":"","pre_2_token":"","post_1_token":"hammer","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sesto meucci smarty women's sandals","entity_value":"sesto","pre_1_token":"","pre_2_token":"","post_1_token":"meucci","post_2_token":"smarty"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"izod by izod 2-piece fragrance set","entity_value":"izod","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"izod"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stephanie mathews ladie's coat","entity_value":"stephanie","pre_1_token":"","pre_2_token":"","post_1_token":"mathews","post_2_token":"ladie's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"awol osric dark tan","entity_value":"awol","pre_1_token":"","pre_2_token":"","post_1_token":"osric","post_2_token":"dark"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ag jeans men's 'stockholm' jeans","entity_value":"jeans","pre_1_token":"ag","pre_2_token":"","post_1_token":"men's","post_2_token":"'stockholm'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tapeet by vicini y7022 rame","entity_value":"tapeet","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"vicini"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"beverly feldman mirabel silver","entity_value":"feldman","pre_1_token":"beverly","pre_2_token":"","post_1_token":"mirabel","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"debbie shuchat boatneck sweater","entity_value":"shuchat","pre_1_token":"debbie","pre_2_token":"","post_1_token":"boatneck","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rubie's costume co 1765 convict adult costume","entity_value":"costume","pre_1_token":"rubie's","pre_2_token":"","post_1_token":"co","post_2_token":"1765"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"super rifle men's bootcut jeans","entity_value":"rifle","pre_1_token":"super","pre_2_token":"","post_1_token":"men's","post_2_token":"bootcut"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pastry glam chukka candy","entity_value":"pastry","pre_1_token":"","pre_2_token":"","post_1_token":"glam","post_2_token":"chukka"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"black rivet leather blazer","entity_value":"rivet","pre_1_token":"black","pre_2_token":"","post_1_token":"leather","post_2_token":"blazer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"peter kaiser marge chocolate","entity_value":"kaiser","pre_1_token":"peter","pre_2_token":"","post_1_token":"marge","post_2_token":"chocolate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"miss sixty flan sunglasses","entity_value":"miss","pre_1_token":"","pre_2_token":"","post_1_token":"sixty","post_2_token":"flan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mountain khakis original mountain freestone pants","entity_value":"mountain","pre_1_token":"","pre_2_token":"","post_1_token":"khakis","post_2_token":"original"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"shape fx women's lace bra","entity_value":"fx","pre_1_token":"shape","pre_2_token":"","post_1_token":"women's","post_2_token":"lace"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"toxic fish men's 'city' jacket","entity_value":"fish","pre_1_token":"toxic","pre_2_token":"","post_1_token":"men's","post_2_token":"'city'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"captain kid boy's robe","entity_value":"kid","pre_1_token":"captain","pre_2_token":"","post_1_token":"boy's","post_2_token":"robe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"timberland basin sunglasses","entity_value":"timberland","pre_1_token":"","pre_2_token":"","post_1_token":"basin","post_2_token":"sunglasses"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ungaro ii by ungaro aftershave for men","entity_value":"ungaro","pre_1_token":"","pre_2_token":"","post_1_token":"ii","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cordani neda gold lame","entity_value":"cordani","pre_1_token":"","pre_2_token":"","post_1_token":"neda","post_2_token":"gold"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"richter 51 5901 (toddler) olive","entity_value":"richter","pre_1_token":"","pre_2_token":"","post_1_token":"51","post_2_token":"5901"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"maggy london sweater dress","entity_value":"maggy","pre_1_token":"","pre_2_token":"","post_1_token":"london","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stuart weitzman orbballe misty","entity_value":"weitzman","pre_1_token":"stuart","pre_2_token":"","post_1_token":"orbballe","post_2_token":"misty"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"black rivet black leather blazer","entity_value":"black","pre_1_token":"","pre_2_token":"","post_1_token":"rivet","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"deer stags brentwood tan","entity_value":"deer","pre_1_token":"","pre_2_token":"","post_1_token":"stags","post_2_token":"brentwood"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"poetic licence attention grey","entity_value":"licence","pre_1_token":"poetic","pre_2_token":"","post_1_token":"attention","post_2_token":"grey"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"deer stags brentwood tan","entity_value":"stags","pre_1_token":"deer","pre_2_token":"","post_1_token":"brentwood","post_2_token":"tan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cozy traveler sportscozy","entity_value":"traveler","pre_1_token":"cozy","pre_2_token":"","post_1_token":"sportscozy","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"xoxo mitzy women's pump","entity_value":"xoxo","pre_1_token":"","pre_2_token":"","post_1_token":"mitzy","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sergio rossi blue clogs","entity_value":"rossi","pre_1_token":"sergio","pre_2_token":"","post_1_token":"blue","post_2_token":"clogs"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"apart women's houndstooth top","entity_value":"apart","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"houndstooth"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"magic women's maxi dress","entity_value":"magic","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"maxi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"aster kids fufille (toddler) fuchsia","entity_value":"aster","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"fufille"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"couture couture by juicy couture' women's 1.7-oz edp spray","entity_value":"couture","pre_1_token":"","pre_2_token":"","post_1_token":"couture","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"birkenstock isis black nubuck","entity_value":"birkenstock","pre_1_token":"","pre_2_token":"","post_1_token":"isis","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"austin reed women's jacket","entity_value":"austin","pre_1_token":"","pre_2_token":"","post_1_token":"reed","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zinc mia orange linen","entity_value":"zinc","pre_1_token":"","pre_2_token":"","post_1_token":"mia","post_2_token":"orange"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dv by dolce vita olivia pewter sandals","entity_value":"dv","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"dolce"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"danny & nicole women's plaid pleated collar dress","entity_value":"danny","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"nicole"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"knoles & carter women's leather bomber jacket","entity_value":"knoles","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"carter"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kische women's grecian dress","entity_value":"kische","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"grecian"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ocean star international goldfish ocean starsa","entity_value":"ocean","pre_1_token":"","pre_2_token":"","post_1_token":"star","post_2_token":"international"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nikki mac tube nailhead dress","entity_value":"mac","pre_1_token":"nikki","pre_2_token":"","post_1_token":"tube","post_2_token":"nailhead"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ed hardy men's polo","entity_value":"ed","pre_1_token":"","pre_2_token":"","post_1_token":"hardy","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mystic clothing chiffon wrap","entity_value":"mystic","pre_1_token":"","pre_2_token":"","post_1_token":"clothing","post_2_token":"chiffon"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tour de france advantage","entity_value":"de","pre_1_token":"tour","pre_2_token":"","post_1_token":"france","post_2_token":"advantage"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oakley men's down jacket","entity_value":"oakley","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"down"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"acqua di selva aftershave","entity_value":"di","pre_1_token":"acqua","pre_2_token":"","post_1_token":"selva","post_2_token":"aftershave"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"diadora collegiate soccer shorts","entity_value":"diadora","pre_1_token":"","pre_2_token":"","post_1_token":"collegiate","post_2_token":"soccer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"giorgio brutini men's loafer","entity_value":"brutini","pre_1_token":"giorgio","pre_2_token":"","post_1_token":"men's","post_2_token":"loafer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"aquatalia by marvin k. whoopie nutmeg patent","entity_value":"aquatalia","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"marvin"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moki kids l105 (toddler) white","entity_value":"moki","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"l105"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"do-a-dot '101 rainbow do-a-dot art!' markers","entity_value":"do","pre_1_token":"","pre_2_token":"","post_1_token":"'101","post_2_token":"rainbow"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"barnes & noble nook aalto cover","entity_value":"barnes","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"noble"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"amalfi by rangoni inda navy burro calf","entity_value":"rangoni","pre_1_token":"by","pre_2_token":"amalfi","post_1_token":"inda","post_2_token":"navy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dr. scholl's foot spa","entity_value":"dr","pre_1_token":"","pre_2_token":"","post_1_token":"scholl's","post_2_token":"foot"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"max studio denim jacket","entity_value":"max","pre_1_token":"","pre_2_token":"","post_1_token":"studio","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"franco sarto cinto sandals","entity_value":"franco","pre_1_token":"","pre_2_token":"","post_1_token":"sarto","post_2_token":"cinto"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tretorn 'karin' red wedge","entity_value":"tretorn","pre_1_token":"","pre_2_token":"","post_1_token":"'karin'","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"la canadienne welcome black","entity_value":"canadienne","pre_1_token":"la","pre_2_token":"","post_1_token":"welcome","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vivienne vivienne tam women's overlap skirt","entity_value":"vivienne","pre_1_token":"","pre_2_token":"","post_1_token":"vivienne","post_2_token":"tam"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bette paige long-sleeve sweater","entity_value":"paige","pre_1_token":"bette","pre_2_token":"","post_1_token":"long-sleeve","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"onex icon black","entity_value":"onex","pre_1_token":"","pre_2_token":"","post_1_token":"icon","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"what's what by aerosoles multitude denim fabric","entity_value":"what","pre_1_token":"","pre_2_token":"","post_1_token":"what","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naturino patchwork zipper boot","entity_value":"naturino","pre_1_token":"","pre_2_token":"","post_1_token":"patchwork","post_2_token":"zipper"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"johnson & johnson flexible fabric adhesive","entity_value":"johnson","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"johnson"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"los angeles pop art women's 'los angeles' v-neck shirt","entity_value":"angeles","pre_1_token":"los","pre_2_token":"","post_1_token":"pop","post_2_token":"art"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"studio m by max studio destiny sunglasses","entity_value":"studio","pre_1_token":"","pre_2_token":"","post_1_token":"m","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"allrounder by mephisto sun orange","entity_value":"allrounder","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"mephisto"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dicapri mens burgundy tie set","entity_value":"dicapri","pre_1_token":"","pre_2_token":"","post_1_token":"mens","post_2_token":"burgundy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"prevata zen black leather","entity_value":"prevata","pre_1_token":"","pre_2_token":"","post_1_token":"zen","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"greg norman white corduroy pants","entity_value":"norman","pre_1_token":"greg","pre_2_token":"","post_1_token":"white","post_2_token":"corduroy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adio bask coffee/oatmeal","entity_value":"adio","pre_1_token":"","pre_2_token":"","post_1_token":"bask","post_2_token":"coffee/oatmeal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vigotti cathleen verde serpente","entity_value":"vigotti","pre_1_token":"","pre_2_token":"","post_1_token":"cathleen","post_2_token":"verde"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lumiani cusona red patent","entity_value":"lumiani","pre_1_token":"","pre_2_token":"","post_1_token":"cusona","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"new balance fleece vest","entity_value":"balance","pre_1_token":"new","pre_2_token":"","post_1_token":"fleece","post_2_token":"vest"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"faryl robin farley pea","entity_value":"faryl","pre_1_token":"","pre_2_token":"","post_1_token":"robin","post_2_token":"farley"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rocket dog jailbirdie black","entity_value":"rocket","pre_1_token":"","pre_2_token":"","post_1_token":"dog","post_2_token":"jailbirdie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"james dean chocolate leather jacket","entity_value":"dean","pre_1_token":"james","pre_2_token":"","post_1_token":"chocolate","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"institute liberal women's bootcut jeans","entity_value":"liberal","pre_1_token":"institute","pre_2_token":"","post_1_token":"women's","post_2_token":"bootcut"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"circa lopez 50 black/white circa-dot","entity_value":"circa","pre_1_token":"","pre_2_token":"","post_1_token":"lopez","post_2_token":"50"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bb dakota gertrude jacket","entity_value":"bb","pre_1_token":"","pre_2_token":"","post_1_token":"dakota","post_2_token":"gertrude"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dead sea spa mineral mud","entity_value":"dead","pre_1_token":"","pre_2_token":"","post_1_token":"sea","post_2_token":"spa"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bc ethic bc girl track jacket","entity_value":"bc","pre_1_token":"","pre_2_token":"","post_1_token":"ethic","post_2_token":"bc"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"be 2 be dotted pattern empire top","entity_value":"be","pre_1_token":"","pre_2_token":"","post_1_token":"2","post_2_token":"be"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dc court graffik se white/dc navy","entity_value":"dc","pre_1_token":"","pre_2_token":"","post_1_token":"court","post_2_token":"graffik"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nascar alice espresso vermont","entity_value":"nascar","pre_1_token":"","pre_2_token":"","post_1_token":"alice","post_2_token":"espresso"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"daniblack rebel red patent","entity_value":"daniblack","pre_1_token":"","pre_2_token":"","post_1_token":"rebel","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"think! cocoon women's clog","entity_value":"think","pre_1_token":"","pre_2_token":"","post_1_token":"cocoon","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"coup d'etat amy black pump","entity_value":"coup","pre_1_token":"","pre_2_token":"","post_1_token":"d'etat","post_2_token":"amy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kamik icecrusher khaki","entity_value":"kamik","pre_1_token":"","pre_2_token":"","post_1_token":"icecrusher","post_2_token":"khaki"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"groove women's 'julia' brownboots","entity_value":"groove","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'julia'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mayfair and jackson pizza stone and rack","entity_value":"and","pre_1_token":"mayfair","pre_2_token":"","post_1_token":"jackson","post_2_token":"pizza"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kenzie dome camel sandals","entity_value":"kenzie","pre_1_token":"","pre_2_token":"","post_1_token":"dome","post_2_token":"camel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"joseph abboud men's trousers","entity_value":"abboud","pre_1_token":"joseph","pre_2_token":"","post_1_token":"men's","post_2_token":"trousers"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"k & co. bow sundress","entity_value":"co","pre_1_token":"&","pre_2_token":"k","post_1_token":"bow","post_2_token":"sundress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gee wawa women's 'cassandra' sandals","entity_value":"gee","pre_1_token":"","pre_2_token":"","post_1_token":"wawa","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"arche najac noir/fire","entity_value":"arche","pre_1_token":"","pre_2_token":"","post_1_token":"najac","post_2_token":"noir/fire"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"platinum men's geometric necktie","entity_value":"platinum","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"geometric"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cl by laundry women's 'flashlight' boots","entity_value":"cl","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"laundry"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mootsies tootsies regale navy leather","entity_value":"mootsies","pre_1_token":"","pre_2_token":"","post_1_token":"tootsies","post_2_token":"regale"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"h.s. trask toggs loden","entity_value":"trask","pre_1_token":"h.s.","pre_2_token":"","post_1_token":"toggs","post_2_token":"loden"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cynthia rowley sonny acciao","entity_value":"rowley","pre_1_token":"cynthia","pre_2_token":"","post_1_token":"sonny","post_2_token":"acciao"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"marvin richards ladies peacoat","entity_value":"marvin","pre_1_token":"","pre_2_token":"","post_1_token":"richards","post_2_token":"ladies"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ruby safari long dress","entity_value":"ruby","pre_1_token":"","pre_2_token":"","post_1_token":"safari","post_2_token":"long"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mystic clothing chiffon wrap","entity_value":"clothing","pre_1_token":"mystic","pre_2_token":"","post_1_token":"chiffon","post_2_token":"wrap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bostonian whitney chestnut","entity_value":"bostonian","pre_1_token":"","pre_2_token":"","post_1_token":"whitney","post_2_token":"chestnut"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lola p dolman sleeve dress","entity_value":"lola","pre_1_token":"","pre_2_token":"","post_1_token":"p","post_2_token":"dolman"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emma t infant pink emma dress","entity_value":"emma","pre_1_token":"","pre_2_token":"","post_1_token":"t","post_2_token":"infant"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jela kids cathy (toddler) pink","entity_value":"jela","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"cathy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ibiza men's charcoal striped suit","entity_value":"ibiza","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"charcoal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"birki's pacific pink marble","entity_value":"birki's","pre_1_token":"","pre_2_token":"","post_1_token":"pacific","post_2_token":"pink"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"a. marinelli casa black","entity_value":"marinelli","pre_1_token":"a.","pre_2_token":"","post_1_token":"casa","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"style essentials satchel","entity_value":"style","pre_1_token":"","pre_2_token":"","post_1_token":"essentials","post_2_token":"satchel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"woolrich ski sweater","entity_value":"woolrich","pre_1_token":"","pre_2_token":"","post_1_token":"ski","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sperry top-sider bay runner","entity_value":"sider","pre_1_token":"sperry","pre_2_token":"","post_1_token":"bay","post_2_token":"runner"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sergio rossi blue clogs","entity_value":"sergio","pre_1_token":"","pre_2_token":"","post_1_token":"rossi","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"spiegel beaded silk tunic","entity_value":"spiegel","pre_1_token":"","pre_2_token":"","post_1_token":"beaded","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bcbgeneration women's 'joyss' heels","entity_value":"bcbgeneration","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'joyss'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"diego di lucca mana blue","entity_value":"diego","pre_1_token":"","pre_2_token":"","post_1_token":"di","post_2_token":"lucca"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tyler wing black satin","entity_value":"tyler","pre_1_token":"","pre_2_token":"","post_1_token":"wing","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"five ten sapphire sage","entity_value":"five","pre_1_token":"","pre_2_token":"","post_1_token":"ten","post_2_token":"sapphire"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"speed limit pashima print poncho","entity_value":"speed","pre_1_token":"","pre_2_token":"","post_1_token":"limit","post_2_token":"pashima"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"famous ny maker houndstooth pantsuit","entity_value":"maker","pre_1_token":"ny","pre_2_token":"famous","post_1_token":"houndstooth","post_2_token":"pantsuit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sea eagle quiksail","entity_value":"sea","pre_1_token":"","pre_2_token":"","post_1_token":"eagle","post_2_token":"quiksail"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"beverly hills polo club men's polo","entity_value":"polo","pre_1_token":"hills","pre_2_token":"beverly","post_1_token":"club","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"john varvatos hester ghurka","entity_value":"varvatos","pre_1_token":"john","pre_2_token":"","post_1_token":"hester","post_2_token":"ghurka"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ed hardy men's 'hardy party' board shorts","entity_value":"hardy","pre_1_token":"ed","pre_2_token":"","post_1_token":"men's","post_2_token":"'hardy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"van heusen men's shirt","entity_value":"heusen","pre_1_token":"van","pre_2_token":"","post_1_token":"men's","post_2_token":"shirt"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ak anne klein malden bronze","entity_value":"ak","pre_1_token":"","pre_2_token":"","post_1_token":"anne","post_2_token":"klein"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"privo papel pear nubuck","entity_value":"privo","pre_1_token":"","pre_2_token":"","post_1_token":"papel","post_2_token":"pear"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"urban spa body buffer by urban spa","entity_value":"urban","pre_1_token":"","pre_2_token":"","post_1_token":"spa","post_2_token":"body"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"q-see 4 camera surveillance system (refurbished)","entity_value":"see","pre_1_token":"","pre_2_token":"","post_1_token":"4","post_2_token":"camera"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"michael by michael kors trench","entity_value":"michael","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"michael"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"harley-davidson hammer black","entity_value":"davidson","pre_1_token":"","pre_2_token":"","post_1_token":"hammer","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"poop-off poop-off anywhere wipes","entity_value":"off","pre_1_token":"","pre_2_token":"","post_1_token":"poop-off","post_2_token":"anywhere"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tammy mars wrap top","entity_value":"tammy","pre_1_token":"","pre_2_token":"","post_1_token":"mars","post_2_token":"wrap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"softspots becky camel nubuck","entity_value":"softspots","pre_1_token":"","pre_2_token":"","post_1_token":"becky","post_2_token":"camel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sovereign code men's herringbone vest","entity_value":"sovereign","pre_1_token":"","pre_2_token":"","post_1_token":"code","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"daniel green shimmer silver","entity_value":"daniel","pre_1_token":"","pre_2_token":"","post_1_token":"green","post_2_token":"shimmer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sebago sandbar sling bone","entity_value":"sebago","pre_1_token":"","pre_2_token":"","post_1_token":"sandbar","post_2_token":"sling"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bedford stu jalama black","entity_value":"bedford","pre_1_token":"","pre_2_token":"","post_1_token":"stu","post_2_token":"jalama"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sesame street play house","entity_value":"street","pre_1_token":"sesame","pre_2_token":"","post_1_token":"play","post_2_token":"house"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nine west down jacket","entity_value":"nine","pre_1_token":"","pre_2_token":"","post_1_token":"west","post_2_token":"down"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rip curl damo beige","entity_value":"curl","pre_1_token":"rip","pre_2_token":"","post_1_token":"damo","post_2_token":"beige"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kimel design studio ecesis white","entity_value":"kimel","pre_1_token":"","pre_2_token":"","post_1_token":"design","post_2_token":"studio"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"french connection men's cardigan","entity_value":"french","pre_1_token":"","pre_2_token":"","post_1_token":"connection","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ny classics leather jacket","entity_value":"ny","pre_1_token":"","pre_2_token":"","post_1_token":"classics","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gbb kids bus (infant/toddler) brown gbb","entity_value":"gbb","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"bus"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ellen tracy 'ellen tracy' women's three-piece fragrance set","entity_value":"ellen","pre_1_token":"","pre_2_token":"","post_1_token":"tracy","post_2_token":"'ellen"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"helen of troy","entity_value":"of","pre_1_token":"helen","pre_2_token":"","post_1_token":"troy","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oleg cassini sweater warm-ups","entity_value":"oleg","pre_1_token":"","pre_2_token":"","post_1_token":"cassini","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ferrecci men's black suspenders","entity_value":"ferrecci","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gbx cruz men's oxford","entity_value":"gbx","pre_1_token":"","pre_2_token":"","post_1_token":"cruz","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ricosta kids ranka (youth) burgundy","entity_value":"ricosta","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"ranka"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"on your feet dawn women's beige slip on sneakers","entity_value":"on","pre_1_token":"","pre_2_token":"","post_1_token":"your","post_2_token":"feet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nunn bush meyer shoe","entity_value":"nunn","pre_1_token":"","pre_2_token":"","post_1_token":"bush","post_2_token":"meyer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nina carlson turquoise sandal","entity_value":"nina","pre_1_token":"","pre_2_token":"","post_1_token":"carlson","post_2_token":"turquoise"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fortuna spa total spa treatment kit","entity_value":"spa","pre_1_token":"fortuna","pre_2_token":"","post_1_token":"total","post_2_token":"spa"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oh! shoes leti cafe","entity_value":"oh","pre_1_token":"","pre_2_token":"","post_1_token":"shoes","post_2_token":"leti"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"speed limit pashima print poncho","entity_value":"limit","pre_1_token":"speed","pre_2_token":"","post_1_token":"pashima","post_2_token":"print"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zigi ny amanda natural","entity_value":"zigi","pre_1_token":"","pre_2_token":"","post_1_token":"ny","post_2_token":"amanda"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"biviel 506 brown","entity_value":"biviel","pre_1_token":"","pre_2_token":"","post_1_token":"506","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"petit 44838 (toddler) turquoise","entity_value":"petit","pre_1_token":"","pre_2_token":"","post_1_token":"44838","post_2_token":"(toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lassen kyra clamdiggers (women's)","entity_value":"lassen","pre_1_token":"","pre_2_token":"","post_1_token":"kyra","post_2_token":"clamdiggers"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bruno piattelli men's silk ties","entity_value":"piattelli","pre_1_token":"bruno","pre_2_token":"","post_1_token":"men's","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stacy adams talasi black","entity_value":"adams","pre_1_token":"stacy","pre_2_token":"","post_1_token":"talasi","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pf flyers pintail white","entity_value":"pf","pre_1_token":"","pre_2_token":"","post_1_token":"flyers","post_2_token":"pintail"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"prima base 11669 asfalto","entity_value":"prima","pre_1_token":"","pre_2_token":"","post_1_token":"base","post_2_token":"11669"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"two lips genet red","entity_value":"lips","pre_1_token":"two","pre_2_token":"","post_1_token":"genet","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rieker 61181 white leather","entity_value":"rieker","pre_1_token":"","pre_2_token":"","post_1_token":"61181","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ros hommerson linda natural","entity_value":"hommerson","pre_1_token":"ros","pre_2_token":"","post_1_token":"linda","post_2_token":"natural"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j lo patrice silver","entity_value":"lo","pre_1_token":"j","pre_2_token":"","post_1_token":"patrice","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"scandia fashion bags & accessories","entity_value":"fashion","pre_1_token":"scandia","pre_2_token":"","post_1_token":"bags","post_2_token":"&"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"anama men's henley shirt","entity_value":"anama","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"henley"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"s.l fashions women's party dress","entity_value":"fashions","pre_1_token":"s.l","pre_2_token":"","post_1_token":"women's","post_2_token":"party"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sandra darren skirt set","entity_value":"darren","pre_1_token":"sandra","pre_2_token":"","post_1_token":"skirt","post_2_token":"set"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tailorbyrd men's striped sport shirt","entity_value":"tailorbyrd","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"striped"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"asics classic running shoes","entity_value":"asics","pre_1_token":"","pre_2_token":"","post_1_token":"classic","post_2_token":"running"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"guess by marciano eleanor white","entity_value":"marciano","pre_1_token":"by","pre_2_token":"guess","post_1_token":"eleanor","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dvs parliament bts shoes","entity_value":"dvs","pre_1_token":"","pre_2_token":"","post_1_token":"parliament","post_2_token":"bts"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"és k6 black/red","entity_value":"és","pre_1_token":"","pre_2_token":"","post_1_token":"k6","post_2_token":"black/red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"seven7 men's polo","entity_value":"seven7","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"polo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"canterbury of new zealand men's plaid shirt","entity_value":"zealand","pre_1_token":"new","pre_2_token":"of","post_1_token":"men's","post_2_token":"plaid"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"me too kellis black","entity_value":"me","pre_1_token":"","pre_2_token":"","post_1_token":"too","post_2_token":"kellis"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"boutique 58 alister black","entity_value":"boutique","pre_1_token":"","pre_2_token":"","post_1_token":"58","post_2_token":"alister"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"banana blues ripped black","entity_value":"blues","pre_1_token":"banana","pre_2_token":"","post_1_token":"ripped","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"la perla blue bra","entity_value":"perla","pre_1_token":"la","pre_2_token":"","post_1_token":"blue","post_2_token":"bra"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"unlisted jones men's sandal","entity_value":"unlisted","pre_1_token":"","pre_2_token":"","post_1_token":"jones","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"canterbury men's jackson woven shirt","entity_value":"canterbury","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"jackson"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"la cera women's denim jegging","entity_value":"cera","pre_1_token":"la","pre_2_token":"","post_1_token":"women's","post_2_token":"denim"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"white mt. swan chocolate","entity_value":"mt","pre_1_token":"white","pre_2_token":"","post_1_token":"swan","post_2_token":"chocolate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tsubo canopus women's sneaker","entity_value":"tsubo","pre_1_token":"","pre_2_token":"","post_1_token":"canopus","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bouquets maxine silver sandals","entity_value":"bouquets","pre_1_token":"","pre_2_token":"","post_1_token":"maxine","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"true religion 'true religion' women's 3 oz shimmering body lotion","entity_value":"true","pre_1_token":"","pre_2_token":"","post_1_token":"religion","post_2_token":"'true"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nyla fortune womens knee boots","entity_value":"nyla","pre_1_token":"","pre_2_token":"","post_1_token":"fortune","post_2_token":"womens"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cannondale 1998 kamikaze gloves","entity_value":"cannondale","pre_1_token":"","pre_2_token":"","post_1_token":"1998","post_2_token":"kamikaze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"equilibrio men's woven shirt","entity_value":"equilibrio","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"woven"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"geox men's 'provider' oxfords","entity_value":"geox","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"'provider'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"elliott lucca 'pascal' hobo","entity_value":"lucca","pre_1_token":"elliott","pre_2_token":"","post_1_token":"'pascal'","post_2_token":"hobo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"earth women's bark clog","entity_value":"earth","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"bark"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"design craft lucite chandelier","entity_value":"design","pre_1_token":"","pre_2_token":"","post_1_token":"craft","post_2_token":"lucite"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"last kiss women's poncho","entity_value":"last","pre_1_token":"","pre_2_token":"","post_1_token":"kiss","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"perry ellis fleece pullover","entity_value":"ellis","pre_1_token":"perry","pre_2_token":"","post_1_token":"fleece","post_2_token":"pullover"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"haspel men's silk necktie","entity_value":"haspel","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"silk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sansabelt stone gabardine twill","entity_value":"sansabelt","pre_1_token":"","pre_2_token":"","post_1_token":"stone","post_2_token":"gabardine"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"js collections stretch top","entity_value":"js","pre_1_token":"","pre_2_token":"","post_1_token":"collections","post_2_token":"stretch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"komitor plus petite raincoat","entity_value":"komitor","pre_1_token":"","pre_2_token":"","post_1_token":"plus","post_2_token":"petite"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"191 unlimited men's brown shirt","entity_value":"191","pre_1_token":"","pre_2_token":"","post_1_token":"unlimited","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"atoz women's keyhole dress","entity_value":"atoz","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"keyhole"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bcbgirls crochet cardigan","entity_value":"bcbgirls","pre_1_token":"","pre_2_token":"","post_1_token":"crochet","post_2_token":"cardigan"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"chinese laundry oversized tote","entity_value":"chinese","pre_1_token":"","pre_2_token":"","post_1_token":"laundry","post_2_token":"oversized"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dereon women's fashion sunglasses","entity_value":"dereon","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"fashion"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lucy love junior's brown 'love life' dress","entity_value":"love","pre_1_token":"lucy","pre_2_token":"","post_1_token":"junior's","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"franco sarto cinto sandals","entity_value":"sarto","pre_1_token":"franco","pre_2_token":"","post_1_token":"cinto","post_2_token":"sandals"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"italia designs leather sectional","entity_value":"italia","pre_1_token":"","pre_2_token":"","post_1_token":"designs","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"disguise inc 11024 monsters inc. disney mike","entity_value":"inc","pre_1_token":"disguise","pre_2_token":"","post_1_token":"11024","post_2_token":"monsters"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"kc collections aviator jacket","entity_value":"kc","pre_1_token":"","pre_2_token":"","post_1_token":"collections","post_2_token":"aviator"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"delman lane-gpm blue","entity_value":"delman","pre_1_token":"","pre_2_token":"","post_1_token":"lane-gpm","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"s.l fashions women's party dress","entity_value":"s.l","pre_1_token":"","pre_2_token":"","post_1_token":"fashions","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"penny loves kenny asteroid lavender","entity_value":"loves","pre_1_token":"penny","pre_2_token":"","post_1_token":"kenny","post_2_token":"asteroid"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"live mechanics men's omega jacket","entity_value":"live","pre_1_token":"","pre_2_token":"","post_1_token":"mechanics","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stacy adams talasi black","entity_value":"stacy","pre_1_token":"","pre_2_token":"","post_1_token":"adams","post_2_token":"talasi"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"peter kaiser marge chocolate","entity_value":"peter","pre_1_token":"","pre_2_token":"","post_1_token":"kaiser","post_2_token":"marge"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"style essentials satchel","entity_value":"essentials","pre_1_token":"style","pre_2_token":"","post_1_token":"satchel","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adrianna papell asymmetrical dress","entity_value":"adrianna","pre_1_token":"","pre_2_token":"","post_1_token":"papell","post_2_token":"asymmetrical"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"olukai haiku w kona","entity_value":"olukai","pre_1_token":"","pre_2_token":"","post_1_token":"haiku","post_2_token":"w"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dolce & gabbana silk tie","entity_value":"dolce","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"gabbana"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"coupe men's embroidered casual shirt","entity_value":"coupe","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"embroidered"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"la perla blue bra","entity_value":"la","pre_1_token":"","pre_2_token":"","post_1_token":"perla","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"laguna men's military shirt","entity_value":"laguna","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"military"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"black jack bootcut jeans","entity_value":"jack","pre_1_token":"black","pre_2_token":"","post_1_token":"bootcut","post_2_token":"jeans"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hi-tec transcender waterproof boots","entity_value":"hi","pre_1_token":"","pre_2_token":"","post_1_token":"transcender","post_2_token":"waterproof"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adi designs black satchel","entity_value":"adi","pre_1_token":"","pre_2_token":"","post_1_token":"designs","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ike behar men's dress shirt","entity_value":"ike","pre_1_token":"","pre_2_token":"","post_1_token":"behar","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"yin natis red","entity_value":"yin","pre_1_token":"","pre_2_token":"","post_1_token":"natis","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"donna karan 9812s sunglasses","entity_value":"karan","pre_1_token":"donna","pre_2_token":"","post_1_token":"9812s","post_2_token":"sunglasses"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"steve madden trench jacket","entity_value":"steve","pre_1_token":"","pre_2_token":"","post_1_token":"madden","post_2_token":"trench"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jagged edge glacier vest","entity_value":"jagged","pre_1_token":"","pre_2_token":"","post_1_token":"edge","post_2_token":"glacier"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"countess mara paisley ties","entity_value":"countess","pre_1_token":"","pre_2_token":"","post_1_token":"mara","post_2_token":"paisley"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"brooks women's brooks for her tank","entity_value":"brooks","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"brooks"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"marc jacobs handbag 041445abs5005","entity_value":"jacobs","pre_1_token":"marc","pre_2_token":"","post_1_token":"handbag","post_2_token":"041445abs5005"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"andrew stevens cleo pump","entity_value":"stevens","pre_1_token":"andrew","pre_2_token":"","post_1_token":"cleo","post_2_token":"pump"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"domani men's 'r' shorts","entity_value":"domani","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"'r'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hush puppies sunblaze black","entity_value":"hush","pre_1_token":"","pre_2_token":"","post_1_token":"puppies","post_2_token":"sunblaze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bikkembergs 632lk06c brown","entity_value":"bikkembergs","pre_1_token":"","pre_2_token":"","post_1_token":"632lk06c","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"self esteem polka dot top","entity_value":"esteem","pre_1_token":"self","pre_2_token":"","post_1_token":"polka","post_2_token":"dot"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"schutz 20101009 red leather","entity_value":"schutz","pre_1_token":"","pre_2_token":"","post_1_token":"20101009","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sanuk drifter cactus green","entity_value":"sanuk","pre_1_token":"","pre_2_token":"","post_1_token":"drifter","post_2_token":"cactus"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"in dept crinkle dress","entity_value":"in","pre_1_token":"","pre_2_token":"","post_1_token":"dept","post_2_token":"crinkle"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nike men's nike oregon series watch","entity_value":"nike","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"nike"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"connected apparel chiffon dress","entity_value":"apparel","pre_1_token":"connected","pre_2_token":"","post_1_token":"chiffon","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"two lips genet red","entity_value":"two","pre_1_token":"","pre_2_token":"","post_1_token":"lips","post_2_token":"genet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vince camuto naila passion","entity_value":"camuto","pre_1_token":"vince","pre_2_token":"","post_1_token":"naila","post_2_token":"passion"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"blue bay 'malmo' matte blue sunglasses","entity_value":"blue","pre_1_token":"","pre_2_token":"","post_1_token":"bay","post_2_token":"'malmo'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"best rite convertible easel","entity_value":"rite","pre_1_token":"best","pre_2_token":"","post_1_token":"convertible","post_2_token":"easel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"violet & claire women's black/ violet ruffle top","entity_value":"violet","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"claire"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"necessary objects sheath dress","entity_value":"necessary","pre_1_token":"","pre_2_token":"","post_1_token":"objects","post_2_token":"sheath"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dollhouse yancy gold","entity_value":"dollhouse","pre_1_token":"","pre_2_token":"","post_1_token":"yancy","post_2_token":"gold"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"heelys octane youth/adult shoes","entity_value":"heelys","pre_1_token":"","pre_2_token":"","post_1_token":"octane","post_2_token":"youth/adult"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"juicy couture heiress sunglasses","entity_value":"juicy","pre_1_token":"","pre_2_token":"","post_1_token":"couture","post_2_token":"heiress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ski doo slide","entity_value":"doo","pre_1_token":"ski","pre_2_token":"","post_1_token":"slide","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tundra boots daisy (youth) pink","entity_value":"tundra","pre_1_token":"","pre_2_token":"","post_1_token":"boots","post_2_token":"daisy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"clarks women's black loafer","entity_value":"clarks","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"o'neill ocean blvd black","entity_value":"o'neill","pre_1_token":"","pre_2_token":"","post_1_token":"ocean","post_2_token":"blvd"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"weekendez off men's long-sleeve sweater","entity_value":"weekendez","pre_1_token":"","pre_2_token":"","post_1_token":"off","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"superga rimini silver metallic athletic","entity_value":"superga","pre_1_token":"","pre_2_token":"","post_1_token":"rimini","post_2_token":"silver"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j-41 jaunt pink","entity_value":"41","pre_1_token":"","pre_2_token":"","post_1_token":"jaunt","post_2_token":"pink"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"salomon hydro backpack","entity_value":"salomon","pre_1_token":"","pre_2_token":"","post_1_token":"hydro","post_2_token":"backpack"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"signature 9000 treadmill desk","entity_value":"signature","pre_1_token":"","pre_2_token":"","post_1_token":"9000","post_2_token":"treadmill"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bella italia sandals","entity_value":"bella","pre_1_token":"","pre_2_token":"","post_1_token":"italia","post_2_token":"sandals"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"volatile tuff girl's sneaker","entity_value":"volatile","pre_1_token":"","pre_2_token":"","post_1_token":"tuff","post_2_token":"girl's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"evan picone women's pants","entity_value":"evan","pre_1_token":"","pre_2_token":"","post_1_token":"picone","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dansko rue spice calf","entity_value":"dansko","pre_1_token":"","pre_2_token":"","post_1_token":"rue","post_2_token":"spice"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tiana b. knot dress","entity_value":"tiana","pre_1_token":"","pre_2_token":"","post_1_token":"b.","post_2_token":"knot"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"zengara men's black oxford","entity_value":"zengara","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"naturalizer holston orange leather","entity_value":"naturalizer","pre_1_token":"","pre_2_token":"","post_1_token":"holston","post_2_token":"orange"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"grace company laphoop","entity_value":"grace","pre_1_token":"","pre_2_token":"","post_1_token":"company","post_2_token":"laphoop"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"stonefly baltimore black nappa","entity_value":"stonefly","pre_1_token":"","pre_2_token":"","post_1_token":"baltimore","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jessica simpson ember saddle","entity_value":"simpson","pre_1_token":"jessica","pre_2_token":"","post_1_token":"ember","post_2_token":"saddle"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"london fog deluxe padfolio","entity_value":"london","pre_1_token":"","pre_2_token":"","post_1_token":"fog","post_2_token":"deluxe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"simply irresistible jeweled camisole","entity_value":"simply","pre_1_token":"","pre_2_token":"","post_1_token":"irresistible","post_2_token":"jeweled"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"michele women's watch #mww08e01a2001ltblue","entity_value":"michele","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"watch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"annalee & hope women's maxi skirt","entity_value":"annalee","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"hope"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hot box vapors vaporizer","entity_value":"hot","pre_1_token":"","pre_2_token":"","post_1_token":"box","post_2_token":"vapors"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"killah tiptap women's sandal","entity_value":"killah","pre_1_token":"","pre_2_token":"","post_1_token":"tiptap","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"smartdogs safari black leather","entity_value":"smartdogs","pre_1_token":"","pre_2_token":"","post_1_token":"safari","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emanuel by emanuel ungaro silk logo shirt","entity_value":"emanuel","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"emanuel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bruno magli bruno men's oxford","entity_value":"bruno","pre_1_token":"","pre_2_token":"","post_1_token":"magli","post_2_token":"bruno"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rebels truimph women's boot","entity_value":"rebels","pre_1_token":"","pre_2_token":"","post_1_token":"truimph","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"donna karan 9812s sunglasses","entity_value":"donna","pre_1_token":"","pre_2_token":"","post_1_token":"karan","post_2_token":"9812s"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"born shoal mahogany leather","entity_value":"born","pre_1_token":"","pre_2_token":"","post_1_token":"shoal","post_2_token":"mahogany"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"face surgeon medicated soap","entity_value":"face","pre_1_token":"","pre_2_token":"","post_1_token":"surgeon","post_2_token":"medicated"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cougar twenty black canvas","entity_value":"cougar","pre_1_token":"","pre_2_token":"","post_1_token":"twenty","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"journee collection woven handbag","entity_value":"journee","pre_1_token":"","pre_2_token":"","post_1_token":"collection","post_2_token":"woven"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"macbeth hamiliton black/cement","entity_value":"macbeth","pre_1_token":"","pre_2_token":"","post_1_token":"hamiliton","post_2_token":"black/cement"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gabriella rocha bully brown","entity_value":"rocha","pre_1_token":"gabriella","pre_2_token":"","post_1_token":"bully","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"irregular choice ziggy blue","entity_value":"choice","pre_1_token":"irregular","pre_2_token":"","post_1_token":"ziggy","post_2_token":"blue"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"simple green simple green extreme aircraft &","entity_value":"simple","pre_1_token":"","pre_2_token":"","post_1_token":"green","post_2_token":"simple"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"next smoke intarsia knit","entity_value":"next","pre_1_token":"","pre_2_token":"","post_1_token":"smoke","post_2_token":"intarsia"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gee wawa women's 'cassandra' sandals","entity_value":"wawa","pre_1_token":"gee","pre_2_token":"","post_1_token":"women's","post_2_token":"'cassandra'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"allen-edmonds mcclain black","entity_value":"edmonds","pre_1_token":"","pre_2_token":"","post_1_token":"mcclain","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"aerosoles 4give shoes","entity_value":"aerosoles","pre_1_token":"","pre_2_token":"","post_1_token":"4give","post_2_token":"shoes"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hart schaffner & marx men's turtleneck sweater","entity_value":"hart","pre_1_token":"","pre_2_token":"","post_1_token":"schaffner","post_2_token":"&"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"spring step mango white","entity_value":"spring","pre_1_token":"","pre_2_token":"","post_1_token":"step","post_2_token":"mango"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adidas running fortitude 2 running shoes","entity_value":"running","pre_1_token":"adidas","pre_2_token":"","post_1_token":"fortitude","post_2_token":"2"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"easy spirit marcella brown","entity_value":"easy","pre_1_token":"","pre_2_token":"","post_1_token":"spirit","post_2_token":"marcella"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jhane barnes gold paisley tie","entity_value":"jhane","pre_1_token":"","pre_2_token":"","post_1_token":"barnes","post_2_token":"gold"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"shellys london cocktail orange","entity_value":"shellys","pre_1_token":"","pre_2_token":"","post_1_token":"london","post_2_token":"cocktail"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"toxic fish uk men's cap","entity_value":"uk","pre_1_token":"fish","pre_2_token":"toxic","post_1_token":"men's","post_2_token":"cap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"austin reed women's jacket","entity_value":"reed","pre_1_token":"austin","pre_2_token":"","post_1_token":"women's","post_2_token":"jacket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"blue cult denim jacket","entity_value":"cult","pre_1_token":"blue","pre_2_token":"","post_1_token":"denim","post_2_token":"jacket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"elan women's strapless jumpsuit","entity_value":"elan","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"strapless"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pathway women's long tunic","entity_value":"pathway","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"long"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"reef reef classica yellow sandals","entity_value":"reef","pre_1_token":"","pre_2_token":"","post_1_token":"reef","post_2_token":"classica"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"newport news women's cropped blazer","entity_value":"news","pre_1_token":"newport","pre_2_token":"","post_1_token":"women's","post_2_token":"cropped"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"boss hugo boss 91701 black","entity_value":"boss","pre_1_token":"","pre_2_token":"","post_1_token":"hugo","post_2_token":"boss"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"us robotics pci gaming modem","entity_value":"us","pre_1_token":"","pre_2_token":"","post_1_token":"robotics","post_2_token":"pci"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bibi kids 342071 (infant) rose","entity_value":"bibi","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"342071"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dress up america drum","entity_value":"up","pre_1_token":"dress","pre_2_token":"","post_1_token":"america","post_2_token":"drum"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tommy bahama tapestry garden","entity_value":"bahama","pre_1_token":"tommy","pre_2_token":"","post_1_token":"tapestry","post_2_token":"garden"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"institute liberal women's bootcut jeans","entity_value":"institute","pre_1_token":"","pre_2_token":"","post_1_token":"liberal","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lucky men's husker jeans","entity_value":"lucky","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"husker"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jessica simpson women's 'jessica' round toe pumps","entity_value":"jessica","pre_1_token":"","pre_2_token":"","post_1_token":"simpson","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tty kids cierra (toddler) black nubuck","entity_value":"tty","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"cierra"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jessica bennett fuse black","entity_value":"bennett","pre_1_token":"jessica","pre_2_token":"","post_1_token":"fuse","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"keen commuter black/keen yellow","entity_value":"keen","pre_1_token":"","pre_2_token":"","post_1_token":"commuter","post_2_token":"black/keen"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rocket dog brown dog slippers","entity_value":"dog","pre_1_token":"rocket","pre_2_token":"","post_1_token":"brown","post_2_token":"dog"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hickey freeman seaworld tie","entity_value":"freeman","pre_1_token":"hickey","pre_2_token":"","post_1_token":"seaworld","post_2_token":"tie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"m1 to vga cable","entity_value":"to","pre_1_token":"m1","pre_2_token":"","post_1_token":"vga","post_2_token":"cable"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moda uomo men's sweater","entity_value":"uomo","pre_1_token":"moda","pre_2_token":"","post_1_token":"men's","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hale bob suzie white","entity_value":"hale","pre_1_token":"","pre_2_token":"","post_1_token":"bob","post_2_token":"suzie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"wolverine bridgton wolverine hiker lo gray/blue","entity_value":"wolverine","pre_1_token":"","pre_2_token":"","post_1_token":"bridgton","post_2_token":"wolverine"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lilly pulitzer corey pink","entity_value":"pulitzer","pre_1_token":"lilly","pre_2_token":"","post_1_token":"corey","post_2_token":"pink"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"esprit junior bikini","entity_value":"esprit","pre_1_token":"","pre_2_token":"","post_1_token":"junior","post_2_token":"bikini"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"enzo angiolini barnet boots","entity_value":"angiolini","pre_1_token":"enzo","pre_2_token":"","post_1_token":"barnet","post_2_token":"boots"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"allen allen women's hooded cable knit cardigan","entity_value":"allen","pre_1_token":"","pre_2_token":"","post_1_token":"allen","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"eastland livingston taupe suede","entity_value":"eastland","pre_1_token":"","pre_2_token":"","post_1_token":"livingston","post_2_token":"taupe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"draven draven cvo black/red tartan athletic","entity_value":"draven","pre_1_token":"","pre_2_token":"","post_1_token":"draven","post_2_token":"cvo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"reebok lifestyle rbk lifestyle court black/powder blue/silver","entity_value":"lifestyle","pre_1_token":"reebok","pre_2_token":"","post_1_token":"rbk","post_2_token":"lifestyle"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dekline captain bwana spoons","entity_value":"dekline","pre_1_token":"","pre_2_token":"","post_1_token":"captain","post_2_token":"bwana"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"puma flipper metallic puma gold/puma silver","entity_value":"puma","pre_1_token":"","pre_2_token":"","post_1_token":"flipper","post_2_token":"metallic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"brunomagli raios taupe","entity_value":"brunomagli","pre_1_token":"","pre_2_token":"","post_1_token":"raios","post_2_token":"taupe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"keds crave mj cammo","entity_value":"keds","pre_1_token":"","pre_2_token":"","post_1_token":"crave","post_2_token":"mj"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"milano women's sleeveless ruffled top","entity_value":"milano","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"sleeveless"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"what's what by aerosoles multitude denim fabric","entity_value":"what's","pre_1_token":"","pre_2_token":"","post_1_token":"what","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"happie brand women's 2-piece satin pajamas","entity_value":"happie","pre_1_token":"","pre_2_token":"","post_1_token":"brand","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sm new york baley black","entity_value":"sm","pre_1_token":"","pre_2_token":"","post_1_token":"new","post_2_token":"york"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mary meyer mango monkey rattle","entity_value":"meyer","pre_1_token":"mary","pre_2_token":"","post_1_token":"mango","post_2_token":"monkey"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jonathan logan stretch slacks","entity_value":"jonathan","pre_1_token":"","pre_2_token":"","post_1_token":"logan","post_2_token":"stretch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"propét sun walker white","entity_value":"propét","pre_1_token":"","pre_2_token":"","post_1_token":"sun","post_2_token":"walker"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"majestic men's blanket lounger","entity_value":"majestic","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"blanket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mr. coffee mrx35 coffee machine","entity_value":"coffee","pre_1_token":"mr.","pre_2_token":"","post_1_token":"mrx35","post_2_token":"coffee"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"white mt. scarlet white cork","entity_value":"white","pre_1_token":"","pre_2_token":"","post_1_token":"mt.","post_2_token":"scarlet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"skechers skechers-backstreet black","entity_value":"skechers","pre_1_token":"","pre_2_token":"","post_1_token":"skechers-backstreet","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jeffrey campbell chris red","entity_value":"jeffrey","pre_1_token":"","pre_2_token":"","post_1_token":"campbell","post_2_token":"chris"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pure fun kids jumper","entity_value":"fun","pre_1_token":"pure","pre_2_token":"","post_1_token":"kids","post_2_token":"jumper"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"discovery kids digital kids camera","entity_value":"kids","pre_1_token":"discovery","pre_2_token":"","post_1_token":"digital","post_2_token":"kids"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"james jeans women's 'james' dry-aged jeans","entity_value":"james","pre_1_token":"","pre_2_token":"","post_1_token":"jeans","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bedford stu jalama black","entity_value":"stu","pre_1_token":"bedford","pre_2_token":"","post_1_token":"jalama","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mantoni men's charcoal woolcarcoat","entity_value":"mantoni","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"charcoal"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"eddie bauer water bottle","entity_value":"eddie","pre_1_token":"","pre_2_token":"","post_1_token":"bauer","post_2_token":"water"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"irregular choice ziggy blue","entity_value":"irregular","pre_1_token":"","pre_2_token":"","post_1_token":"choice","post_2_token":"ziggy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"unisa tender black kid","entity_value":"unisa","pre_1_token":"","pre_2_token":"","post_1_token":"tender","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"carlos by carlos santana chopsticks women's mule","entity_value":"carlos","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"carlos"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"emerica reynolds 3 bronze","entity_value":"emerica","pre_1_token":"","pre_2_token":"","post_1_token":"reynolds","post_2_token":"3"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"natural comfort c4 natural","entity_value":"natural","pre_1_token":"","pre_2_token":"","post_1_token":"comfort","post_2_token":"c4"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mizuno t3 ti driver","entity_value":"mizuno","pre_1_token":"","pre_2_token":"","post_1_token":"t3","post_2_token":"ti"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ny classics leather jacket","entity_value":"classics","pre_1_token":"ny","pre_2_token":"","post_1_token":"leather","post_2_token":"jacket"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"forum constant black","entity_value":"forum","pre_1_token":"","pre_2_token":"","post_1_token":"constant","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fratelli 2109 chocolate leather","entity_value":"fratelli","pre_1_token":"","pre_2_token":"","post_1_token":"2109","post_2_token":"chocolate"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"boutique 58 alister black","entity_value":"58","pre_1_token":"boutique","pre_2_token":"","post_1_token":"alister","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"spense knit turtleneck dress","entity_value":"spense","pre_1_token":"","pre_2_token":"","post_1_token":"knit","post_2_token":"turtleneck"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"giorgio fiorelli modern lapel tuxedo","entity_value":"fiorelli","pre_1_token":"giorgio","pre_2_token":"","post_1_token":"modern","post_2_token":"lapel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"land rover pembroke men's sandals","entity_value":"land","pre_1_token":"","pre_2_token":"","post_1_token":"rover","post_2_token":"pembroke"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tricots st. raphael charlie crew","entity_value":"raphael","pre_1_token":"st.","pre_2_token":"tricots","post_1_token":"charlie","post_2_token":"crew"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"gravis eliminator rumble gamepad","entity_value":"gravis","pre_1_token":"","pre_2_token":"","post_1_token":"eliminator","post_2_token":"rumble"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"donald j pliner jrs p18-k116 (toddler/youth) red","entity_value":"jrs","pre_1_token":"pliner","pre_2_token":"j","post_1_token":"p18-k116","post_2_token":"(toddler/youth)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"magdesians bela-r bronze","entity_value":"magdesians","pre_1_token":"","pre_2_token":"","post_1_token":"bela-r","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"impulse s2679 dk brown","entity_value":"impulse","pre_1_token":"","pre_2_token":"","post_1_token":"s2679","post_2_token":"dk"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"massimo genni men's dress pants","entity_value":"massimo","pre_1_token":"","pre_2_token":"","post_1_token":"genni","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fergie women's 'lotto' bootie","entity_value":"fergie","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'lotto'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"four paws pet products four paws sanitary pants","entity_value":"four","pre_1_token":"","pre_2_token":"","post_1_token":"paws","post_2_token":"pet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"rain embellished knit top","entity_value":"rain","pre_1_token":"","pre_2_token":"","post_1_token":"embellished","post_2_token":"knit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ivory globe candle","entity_value":"globe","pre_1_token":"ivory","pre_2_token":"","post_1_token":"candle","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"me too kellis black","entity_value":"too","pre_1_token":"me","pre_2_token":"","post_1_token":"kellis","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"top 10 sheer chiffon top","entity_value":"top","pre_1_token":"","pre_2_token":"","post_1_token":"10","post_2_token":"sheer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"escio women's wrap cardigan","entity_value":"escio","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"wrap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"icon leather laptop tote","entity_value":"icon","pre_1_token":"","pre_2_token":"","post_1_token":"leather","post_2_token":"laptop"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nuage florence women's jacket","entity_value":"nuage","pre_1_token":"","pre_2_token":"","post_1_token":"florence","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"martinez valero chime gold","entity_value":"martinez","pre_1_token":"","pre_2_token":"","post_1_token":"valero","post_2_token":"chime"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"scarlett women's lace & taffetta dress","entity_value":"scarlett","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"lace"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"duffs dudette white","entity_value":"duffs","pre_1_token":"","pre_2_token":"","post_1_token":"dudette","post_2_token":"white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"on your feet igloo slipper","entity_value":"feet","pre_1_token":"your","pre_2_token":"on","post_1_token":"igloo","post_2_token":"slipper"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"muk luks sock monkey slippers","entity_value":"muk","pre_1_token":"","pre_2_token":"","post_1_token":"luks","post_2_token":"sock"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"illusion nylon half slip","entity_value":"illusion","pre_1_token":"","pre_2_token":"","post_1_token":"nylon","post_2_token":"half"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sigerson morrison 7092 silver","entity_value":"sigerson","pre_1_token":"","pre_2_token":"","post_1_token":"morrison","post_2_token":"7092"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"blink pink sequined sandal","entity_value":"blink","pre_1_token":"","pre_2_token":"","post_1_token":"pink","post_2_token":"sequined"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adolfo men's twill sportcoat","entity_value":"adolfo","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"twill"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ellen tracy 'ellen tracy' women's three-piece fragrance set","entity_value":"tracy","pre_1_token":"ellen","pre_2_token":"","post_1_token":"'ellen","post_2_token":"tracy'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"marvin richards ladies peacoat","entity_value":"richards","pre_1_token":"marvin","pre_2_token":"","post_1_token":"ladies","post_2_token":"peacoat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"robert clergerie nid bronze","entity_value":"clergerie","pre_1_token":"robert","pre_2_token":"","post_1_token":"nid","post_2_token":"bronze"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"reebok women's sonica trainers","entity_value":"reebok","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"sonica"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lilly pulitzer corey pink","entity_value":"lilly","pre_1_token":"","pre_2_token":"","post_1_token":"pulitzer","post_2_token":"corey"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"matisse women's 'vamp' boots","entity_value":"matisse","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"'vamp'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"massimo genni men's dress pants","entity_value":"genni","pre_1_token":"massimo","pre_2_token":"","post_1_token":"men's","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"via spiga cammy bordo","entity_value":"via","pre_1_token":"","pre_2_token":"","post_1_token":"spiga","post_2_token":"cammy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"romeo & juliet 'gabriella' satchel","entity_value":"romeo","pre_1_token":"","pre_2_token":"","post_1_token":"&","post_2_token":"juliet"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"enzo tovare men's medium taupe wool suit","entity_value":"tovare","pre_1_token":"enzo","pre_2_token":"","post_1_token":"men's","post_2_token":"medium"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"glamour women's sleeveless dress","entity_value":"glamour","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"sleeveless"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fila fila open white/silver","entity_value":"fila","pre_1_token":"","pre_2_token":"","post_1_token":"fila","post_2_token":"open"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ara buffalo 30635 black","entity_value":"ara","pre_1_token":"","pre_2_token":"","post_1_token":"buffalo","post_2_token":"30635"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"toxic fish men's 'city' jacket","entity_value":"toxic","pre_1_token":"","pre_2_token":"","post_1_token":"fish","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vicini u7503 burgundy","entity_value":"vicini","pre_1_token":"","pre_2_token":"","post_1_token":"u7503","post_2_token":"burgundy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"true love & false idols men's cashmere cardigan","entity_value":"false","pre_1_token":"&","pre_2_token":"love","post_1_token":"idols","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"etienne aigner summer sandals","entity_value":"etienne","pre_1_token":"","pre_2_token":"","post_1_token":"aigner","post_2_token":"summer"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"red wing cokato oxfords","entity_value":"wing","pre_1_token":"red","pre_2_token":"","post_1_token":"cokato","post_2_token":"oxfords"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"piano women's babydoll blouse","entity_value":"piano","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"babydoll"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"wishes denim dress","entity_value":"wishes","pre_1_token":"","pre_2_token":"","post_1_token":"denim","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"appliance art 'tea time' dishwasher art","entity_value":"art","pre_1_token":"appliance","pre_2_token":"","post_1_token":"'tea","post_2_token":"time'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mezlan gilby brown","entity_value":"mezlan","pre_1_token":"","pre_2_token":"","post_1_token":"gilby","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"see kai run kids evan (infant/toddler) chocolate","entity_value":"kai","pre_1_token":"see","pre_2_token":"","post_1_token":"run","post_2_token":"kids"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moschino 55144.500505.01.9102 black","entity_value":"moschino","pre_1_token":"","pre_2_token":"","post_1_token":"55144.500505.01.9102","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"primigi kids sami (youth) beige","entity_value":"primigi","pre_1_token":"","pre_2_token":"","post_1_token":"kids","post_2_token":"sami"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"harve benard black raincoat","entity_value":"harve","pre_1_token":"","pre_2_token":"","post_1_token":"benard","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lusso women's cashmere sweater","entity_value":"lusso","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"cashmere"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lauren ralph lauren nazira cuoio","entity_value":"lauren","pre_1_token":"","pre_2_token":"","post_1_token":"ralph","post_2_token":"lauren"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"avia men's running shoes","entity_value":"avia","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"running"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"charles david angel camel","entity_value":"david","pre_1_token":"charles","pre_2_token":"","post_1_token":"angel","post_2_token":"camel"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tahari asl skirt suit","entity_value":"asl","pre_1_token":"tahari","pre_2_token":"","post_1_token":"skirt","post_2_token":"suit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vivienne vivienne tam women's overlap skirt","entity_value":"tam","pre_1_token":"vivienne","pre_2_token":"vivienne","post_1_token":"women's","post_2_token":"overlap"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"reaction snowboard with bindings","entity_value":"reaction","pre_1_token":"","pre_2_token":"","post_1_token":"snowboard","post_2_token":"with"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"betseyville prosper black flats","entity_value":"betseyville","pre_1_token":"","pre_2_token":"","post_1_token":"prosper","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ahnu tilden black","entity_value":"ahnu","pre_1_token":"","pre_2_token":"","post_1_token":"tilden","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jumping jacks monarch (infant/toddler) black leather","entity_value":"jumping","pre_1_token":"","pre_2_token":"","post_1_token":"jacks","post_2_token":"monarch"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"525 america striped sweater","entity_value":"america","pre_1_token":"525","pre_2_token":"","post_1_token":"striped","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"monarchy men's black jacket","entity_value":"monarchy","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sam edelman paxton brown","entity_value":"edelman","pre_1_token":"sam","pre_2_token":"","post_1_token":"paxton","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cole haan andi sandals","entity_value":"haan","pre_1_token":"cole","pre_2_token":"","post_1_token":"andi","post_2_token":"sandals"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vera wang sleeveless sweater","entity_value":"wang","pre_1_token":"vera","pre_2_token":"","post_1_token":"sleeveless","post_2_token":"sweater"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"calvin klein blue sunglasses","entity_value":"klein","pre_1_token":"calvin","pre_2_token":"","post_1_token":"blue","post_2_token":"sunglasses"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"teva cuban cigar","entity_value":"teva","pre_1_token":"","pre_2_token":"","post_1_token":"cuban","post_2_token":"cigar"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"boston acoustics microsystem cd","entity_value":"boston","pre_1_token":"","pre_2_token":"","post_1_token":"acoustics","post_2_token":"microsystem"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cloth logic men's canvas coat","entity_value":"cloth","pre_1_token":"","pre_2_token":"","post_1_token":"logic","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"black fornarina audrey handbag","entity_value":"fornarina","pre_1_token":"black","pre_2_token":"","post_1_token":"audrey","post_2_token":"handbag"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"larry levine buttoned cardigan","entity_value":"larry","pre_1_token":"","pre_2_token":"","post_1_token":"levine","post_2_token":"buttoned"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"chantal thomas 'chantal thomas' women's 1.7-oz body powder","entity_value":"thomas","pre_1_token":"chantal","pre_2_token":"","post_1_token":"'chantal","post_2_token":"thomas'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lugz alpha men's sneaker","entity_value":"lugz","pre_1_token":"","pre_2_token":"","post_1_token":"alpha","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vince camuto naila passion","entity_value":"vince","pre_1_token":"","pre_2_token":"","post_1_token":"camuto","post_2_token":"naila"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lane boots women's 'dusty earth' cowboy boots","entity_value":"boots","pre_1_token":"lane","pre_2_token":"","post_1_token":"women's","post_2_token":"'dusty"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"osiris merk olive/camo","entity_value":"osiris","pre_1_token":"","pre_2_token":"","post_1_token":"merk","post_2_token":"olive/camo"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"etienne aigner summer sandals","entity_value":"aigner","pre_1_token":"etienne","pre_2_token":"","post_1_token":"summer","post_2_token":"sandals"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mobile edge 'the edge' black backpack","entity_value":"edge","pre_1_token":"mobile","pre_2_token":"","post_1_token":"'the","post_2_token":"edge'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"shane&shawn hazel black","entity_value":"shane","pre_1_token":"","pre_2_token":"","post_1_token":"hazel","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"brio men's european dress shirt","entity_value":"brio","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"european"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"restricted twilight whiskey","entity_value":"restricted","pre_1_token":"","pre_2_token":"","post_1_token":"twilight","post_2_token":"whiskey"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"lapis plain ruffled skirt","entity_value":"lapis","pre_1_token":"","pre_2_token":"","post_1_token":"plain","post_2_token":"ruffled"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mix studio's women's long skirt","entity_value":"mix","pre_1_token":"","pre_2_token":"","post_1_token":"studio's","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"visitor men's paisley shirt","entity_value":"visitor","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"paisley"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"moda uomo men's sweater","entity_value":"moda","pre_1_token":"","pre_2_token":"","post_1_token":"uomo","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"renee c asymetrical sweater","entity_value":"renee","pre_1_token":"","pre_2_token":"","post_1_token":"c","post_2_token":"asymetrical"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"london fog deluxe padfolio","entity_value":"fog","pre_1_token":"london","pre_2_token":"","post_1_token":"deluxe","post_2_token":"padfolio"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"adrienne vittadini leather handbag","entity_value":"adrienne","pre_1_token":"","pre_2_token":"","post_1_token":"vittadini","post_2_token":"leather"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mia mia women's short-sleeve ruffle blouse","entity_value":"mia","pre_1_token":"","pre_2_token":"","post_1_token":"mia","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"max & cleo pintucked shirtdress","entity_value":"cleo","pre_1_token":"&","pre_2_token":"max","post_1_token":"pintucked","post_2_token":"shirtdress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"easy spirit marcella brown","entity_value":"spirit","pre_1_token":"easy","pre_2_token":"","post_1_token":"marcella","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"caterpillar women's black roxanne","entity_value":"caterpillar","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bacco bucci boa brown","entity_value":"bacco","pre_1_token":"","pre_2_token":"","post_1_token":"bucci","post_2_token":"boa"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"coffee shop tweed coat","entity_value":"shop","pre_1_token":"coffee","pre_2_token":"","post_1_token":"tweed","post_2_token":"coat"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"onyx nites women's black cascade ruffle dress","entity_value":"nites","pre_1_token":"onyx","pre_2_token":"","post_1_token":"women's","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"saucony shadow ripple","entity_value":"saucony","pre_1_token":"","pre_2_token":"","post_1_token":"shadow","post_2_token":"ripple"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"old friend islander brown","entity_value":"old","pre_1_token":"","pre_2_token":"","post_1_token":"friend","post_2_token":"islander"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"little giant work platform","entity_value":"little","pre_1_token":"","pre_2_token":"","post_1_token":"giant","post_2_token":"work"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"oggi moda men's cashmere sweater","entity_value":"oggi","pre_1_token":"","pre_2_token":"","post_1_token":"moda","post_2_token":"men's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"casadei 5845 black/white","entity_value":"casadei","pre_1_token":"","pre_2_token":"","post_1_token":"5845","post_2_token":"black/white"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"princeton tec yukon headlamp","entity_value":"tec","pre_1_token":"princeton","pre_2_token":"","post_1_token":"yukon","post_2_token":"headlamp"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ted baker lauren green","entity_value":"ted","pre_1_token":"","pre_2_token":"","post_1_token":"baker","post_2_token":"lauren"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"supra sport black suede","entity_value":"supra","pre_1_token":"","pre_2_token":"","post_1_token":"sport","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"hickey freeman seaworld tie","entity_value":"hickey","pre_1_token":"","pre_2_token":"","post_1_token":"freeman","post_2_token":"seaworld"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mod8 prisme (toddler) pink nubuck","entity_value":"mod8","pre_1_token":"","pre_2_token":"","post_1_token":"prisme","post_2_token":"(toddler)"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"martin yale rubber roller cleaner for martin","entity_value":"martin","pre_1_token":"","pre_2_token":"","post_1_token":"yale","post_2_token":"rubber"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"duck sport by blue duck shearling parka","entity_value":"duck","pre_1_token":"","pre_2_token":"","post_1_token":"sport","post_2_token":"by"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"donna ricco midcalf dress","entity_value":"ricco","pre_1_token":"donna","pre_2_token":"","post_1_token":"midcalf","post_2_token":"dress"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"three hearts knit pants","entity_value":"three","pre_1_token":"","pre_2_token":"","post_1_token":"hearts","post_2_token":"knit"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"giorgio beverly hills 'giorgio' women's gift set","entity_value":"giorgio","pre_1_token":"","pre_2_token":"","post_1_token":"beverly","post_2_token":"hills"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"propet coral walker women's sandal","entity_value":"propet","pre_1_token":"","pre_2_token":"","post_1_token":"coral","post_2_token":"walker"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dkm kid shoes franzi 10 (youth) pink","entity_value":"dkm","pre_1_token":"","pre_2_token":"","post_1_token":"kid","post_2_token":"shoes"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dvs shoe company sano brown","entity_value":"shoe","pre_1_token":"dvs","pre_2_token":"","post_1_token":"company","post_2_token":"sano"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tahari by elie tahari metallic spring jacket","entity_value":"tahari","pre_1_token":"","pre_2_token":"","post_1_token":"by","post_2_token":"elie"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j. shoes belgravia black","entity_value":"shoes","pre_1_token":"j.","pre_2_token":"","post_1_token":"belgravia","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ryka women's veritas mules","entity_value":"ryka","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"veritas"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"martha stewart fringe scissors","entity_value":"martha","pre_1_token":"","pre_2_token":"","post_1_token":"stewart","post_2_token":"fringe"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"bacco bucci boa brown","entity_value":"bucci","pre_1_token":"bacco","pre_2_token":"","post_1_token":"boa","post_2_token":"brown"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"h.s. trask toggs loden","entity_value":"h.s","pre_1_token":"","pre_2_token":"","post_1_token":"trask","post_2_token":"toggs"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"shape fx women's lace bra","entity_value":"shape","pre_1_token":"","pre_2_token":"","post_1_token":"fx","post_2_token":"women's"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"sangria women's party dress","entity_value":"sangria","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"party"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"dockers men's barracuda jacket","entity_value":"dockers","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"barracuda"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fly london tina red","entity_value":"fly","pre_1_token":"","pre_2_token":"","post_1_token":"london","post_2_token":"tina"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cobian rivetti womens sandal","entity_value":"cobian","pre_1_token":"","pre_2_token":"","post_1_token":"rivetti","post_2_token":"womens"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"grace company laphoop","entity_value":"company","pre_1_token":"grace","pre_2_token":"","post_1_token":"laphoop","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"toscano men's linen shirt","entity_value":"toscano","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"linen"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"akademiks men's baseball jacket","entity_value":"akademiks","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"baseball"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"nine west 'west end' large satchel","entity_value":"west","pre_1_token":"nine","pre_2_token":"","post_1_token":"'west","post_2_token":"end'"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ellesse men's bromont sweater","entity_value":"ellesse","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"bromont"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vaneli danaus cuoio suede","entity_value":"vaneli","pre_1_token":"","pre_2_token":"","post_1_token":"danaus","post_2_token":"cuoio"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"josef seibel tracy white","entity_value":"josef","pre_1_token":"","pre_2_token":"","post_1_token":"seibel","post_2_token":"tracy"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"coloriffics tanya smoke sandals","entity_value":"coloriffics","pre_1_token":"","pre_2_token":"","post_1_token":"tanya","post_2_token":"smoke"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"water girl bottom turn","entity_value":"girl","pre_1_token":"water","pre_2_token":"","post_1_token":"bottom","post_2_token":"turn"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"robbie bee coral shantung pantsuit","entity_value":"robbie","pre_1_token":"","pre_2_token":"","post_1_token":"bee","post_2_token":"coral"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"triple pet toothbrush","entity_value":"triple","pre_1_token":"","pre_2_token":"","post_1_token":"pet","post_2_token":"toothbrush"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"muk luks women's sun luks solid denim wedge peep toes","entity_value":"luks","pre_1_token":"muk","pre_2_token":"","post_1_token":"women's","post_2_token":"sun"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"maxx new york handbags","entity_value":"york","pre_1_token":"new","pre_2_token":"maxx","post_1_token":"handbags","post_2_token":""}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"vox footwear push white","entity_value":"vox","pre_1_token":"","pre_2_token":"","post_1_token":"footwear","post_2_token":"push"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"ted baker lauren green","entity_value":"baker","pre_1_token":"ted","pre_2_token":"","post_1_token":"lauren","post_2_token":"green"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"georgia boot 8 comfort core® boot brown","entity_value":"boot","pre_1_token":"georgia","pre_2_token":"","post_1_token":"8","post_2_token":"comfort"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"evolved novelties faith vibrator","entity_value":"novelties","pre_1_token":"evolved","pre_2_token":"","post_1_token":"faith","post_2_token":"vibrator"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"jeffrey campbell chris red","entity_value":"campbell","pre_1_token":"jeffrey","pre_2_token":"","post_1_token":"chris","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"pleaser women's chic stiletto heels","entity_value":"pleaser","pre_1_token":"","pre_2_token":"","post_1_token":"women's","post_2_token":"chic"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"utex hooded stadium jacket","entity_value":"utex","pre_1_token":"","pre_2_token":"","post_1_token":"hooded","post_2_token":"stadium"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"the cat in the hat","entity_value":"the","pre_1_token":"","pre_2_token":"","post_1_token":"cat","post_2_token":"in"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"mo7 men's fleece hoodie","entity_value":"mo7","pre_1_token":"","pre_2_token":"","post_1_token":"men's","post_2_token":"fleece"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"salton gr200 george foreman's big george","entity_value":"george","pre_1_token":"gr200","pre_2_token":"salton","post_1_token":"foreman's","post_2_token":"big"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"tatami chesterfield red oxford","entity_value":"tatami","pre_1_token":"","pre_2_token":"","post_1_token":"chesterfield","post_2_token":"red"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"fitzwell ramiro black athletic","entity_value":"fitzwell","pre_1_token":"","pre_2_token":"","post_1_token":"ramiro","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"cable & gauge necklace blouse","entity_value":"gauge","pre_1_token":"&","pre_2_token":"cable","post_1_token":"necklace","post_2_token":"blouse"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"j. reneé chill black","entity_value":"reneé","pre_1_token":"j.","pre_2_token":"","post_1_token":"chill","post_2_token":"black"}]}}
+{"brand_product_listing":{"docs":[{"product_listing":"anne klein pant suit","entity_value":"anne","pre_1_token":"","pre_2_token":"","post_1_token":"klein","post_2_token":"pant"}]}}
