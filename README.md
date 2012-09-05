@@ -1,2 +1,3 @@
-lumos - A product attribute extraction system
+lumos
 =====
+A product attribute extraction system
