@@ -23,7 +23,7 @@ public class EntityExtractionApp
     try
     {
       JFrame loadingFrame = new JFrame();
-      loadingFrame.setTitle("Product Entity Extractor");
+      loadingFrame.setTitle("Lumos - Product Entity Extractor");
       loadingFrame.setSize(400, 100);
       loadingFrame.setLocationRelativeTo(null);
       DefaultFormBuilder loadingFrameBuilder = new DefaultFormBuilder(new FormLayout(""));

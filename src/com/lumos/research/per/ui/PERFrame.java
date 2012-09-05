@@ -66,7 +66,7 @@ public class PERFrame extends JFrame implements ActionListener
     add(resultPanel.getPanel(),BorderLayout.CENTER);
 
     submitButton.addActionListener(this);
-    setTitle("Product Entity Extractor");
+    setTitle("Lumos - Product Entity Extractor");
   }
 
 
